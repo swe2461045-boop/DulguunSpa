@@ -1,0 +1,17 @@
+{
+  "name": "dulguunspa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss/main.scss:src/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "bulma": "^1.0.4",
+    "sass": "^1.105.0"
+  }
+}

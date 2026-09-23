@@ -1,0 +1,38 @@
+@use "sass:color";
+
+// Variables
+$primaryColor: #f43f5e;
+$primaryColorDark: color.scale($primaryColor, $lightness: -15%);
+
+$secondaryColor: #0891b2;
+$secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
+
+// Bulma
+@import "../../node_modules/bulma/bulma";
+
+// Custom styles
+.button.is-primary {
+  background-color: $primaryColor !important;
+  border-color: $primaryColor !important;
+  color: white !important;
+  transition: all 0.2s ease;
+}
+
+.button.is-primary:hover {
+  background-color: $primaryColorDark !important;
+  border-color: $primaryColorDark !important;
+  color: white !important;
+}
+
+.button.is-secondary {
+  background-color: $secondaryColor !important;
+  border-color: $secondaryColor !important;
+  color: white !important;
+  transition: all 0.2s ease;
+}
+
+.button.is-secondary:hover {
+  background-color: $secondaryColorDark !important;
+  border-color: $secondaryColorDark !important;
+  color: white !important;
+}
