@@ -1,0 +1,32 @@
+// override bulma button
+:root {
+  --bulma-primary-h: 151deg;
+  --bulma-primary-s: 65%;
+  --bulma-primary-l: 42%;
+}
+
+.button.is-primary {
+  background-color: $primaryColor;
+  border-color: $primaryColor;
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.button.is-primary:hover {
+  background-color: $primaryColorDark;
+  border-color: $primaryColorDark;
+  color: white;
+}
+
+.button.is-secondary {
+  background-color: $secondaryColor;
+  border-color: $secondaryColor;
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.button.is-secondary:hover {
+  background-color: $secondaryColorDark;
+  border-color: $secondaryColorDark;
+  color: white;
+}

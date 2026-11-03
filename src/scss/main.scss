@@ -1,0 +1,163 @@
+@use "sass:color";
+
+// variables
+$primaryColor: #2bac73;
+$primaryColorDark: color.scale($primaryColor, $lightness: -15%);
+
+$secondaryColor: #ff914d;
+$secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
+
+:root {
+  --border: #ececf2;
+  --sidebar-width: clamp(280px, 22vw, 340px); // Sidebar-ийн өргөн (280px-340px хооронд, дэлгэцийн 22%-ийг эзэлнэ)
+  --sidebar-bg: #ffffff;
+  --page-bg: #ffffff;
+  --text-main: #23262f;
+  --text-soft: #6b7280;
+  --pink: #ff6f91;
+  --green: #2bac73;
+  --orange: #ff914d;
+  --active-bg: #fff2e8;
+  --hover-bg: #f7f7fa;
+  --overlay: rgba(15, 23, 42, 0.55);
+}
+
+@import "../../node_modules/bulma/bulma";
+
+@import "./components/buttons";
+@import "./components/navbar";
+@import "./layouts/sidebarPageLayout";
+@import "./components/sidebarMenuList";
+@import "./layouts/pageTableContentsLayout";
+@import "./components/imageModal";
+
+// Mobile (<768px) → Sidebar = slide menu (hidden → open)
+// Tablet (≤1023px) → зөвхөн хэмжээ багасгана
+// Desktop (≥769px) → Sidebar = байнга харагдана (static)
+
+/* =========================
+   DESKTOP (>=769px)
+========================= */
+@media screen and (min-width: 769px) {
+  .app-mobile-sidebar,
+  .app-sidebar-mobile-head {
+    /* Mobile-д зориулсан элементүүдийг нуух */
+    display: none;
+  }
+
+  .app-sidebar {
+    /* Sidebar-г буцааж хэвийн layout-д оруулна */
+    position: static;
+
+    /* translate animation-г устгана */
+    transform: none;
+
+    height: auto;
+
+    /* Mobile shadow-г арилгана */
+    box-shadow: none;
+  }
+}
+
+/* =========================
+   TABLET (<=1024px)
+========================= */
+@media screen and (max-width: 1023px) {
+  // .app-main-content {
+  //   padding: 2rem 2rem 2.5rem; /* Desktop-оос арай бага padding */
+  // }
+
+  .app-title {
+    line-height: 1.1;
+    margin-bottom: 0.9rem;
+  }
+
+  .app-subtitle {
+    margin-bottom: 2rem;
+  }
+
+  .app-tbl {
+    font-size: 0.9rem;
+  }
+}
+
+/* =========================
+   MOBILE (<=768px)
+========================= */
+@media screen and (max-width: 768px) {
+  .app-shell {
+    display: block; /* Sidebar + main layout-ийг stack болгоно */
+  }
+
+  .app-mobile-sidebar {
+    display: block; /* Mobile дээр гарч ирэх ↪ button */
+  }
+
+  .app-sidebar {
+    display: block;
+    position: fixed; /* Sidebar-г fixed болгож slide menu болгоно */
+    top: 0;
+    left: 0;
+    width: 320px;
+    max-width: 85vw;
+    min-width: unset;
+    height: 100vh;
+    z-index: 40;
+    background: #fff;
+    border-right: 1px solid var(--border);
+    border-bottom: 0;
+    padding: 1rem 1rem 2rem;
+    overflow-y: auto;
+    /* Sidebar-г default үед нуух (зүүн тийш гаргана) */
+    transform: translateX(-100%);
+    transition: transform 0.28s ease;
+    box-shadow: 10px 0 30px rgba(0, 0, 0, 0.14);
+  }
+
+  .app-sidebar.is-open {
+    transform: translateX(0); /* Нээгдэх үед буцааж харуулна */
+  }
+
+  .app-sidebar-mobile-head {
+    /* Close button байрлах хэсэг */
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.75rem;
+  }
+
+  // .app-main-content {
+  //   /* Mobile дээр padding багасгана */
+  //   padding: 1.25rem 1rem 2rem;
+  // }
+
+  .app-title {
+    font-size: 1.65rem;
+    line-height: 1.15;
+  }
+
+  .app-subtitle {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1.75rem;
+  }
+  .app-tbl {
+    font-size: 0.7rem;
+  }
+}
+
+/* =========================
+   SMALL MOBILE (<=480px)
+========================= */
+@media screen and (max-width: 480px) {
+  // .app-main-content {
+  //   padding: 1rem 0.9rem 1.5rem;
+  // }
+
+  .app-title {
+    font-size: 1.45rem;
+  }
+
+  .app-subtitle {
+    font-size: 0.95rem;
+  }
+}

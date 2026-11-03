@@ -1,0 +1,28 @@
+// pageLayout.js-д .app-title, .app-line ашигласан.
+.app-title {
+  font-size: clamp(1.6rem, 3.2vw, 2.25rem);
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+  font-weight: 800;
+  max-width: 760px;
+  margin-bottom: 0.5rem;
+}
+
+.app-line {
+  width: 76px;
+  height: 3px;
+  border-radius: 999px;
+  background: var(--orange);
+  margin-bottom: 1.5rem;
+}
+
+// tableLayout.js-д .app-subtitle ашигласан.
+.app-subtitle {
+  color: #607089;
+  font-size: clamp(1rem, 2vw, 1.35rem);
+  // text-align: center;
+  font-weight: bold;
+  line-height: 1.6;
+  max-width: 760px;
+  margin-bottom: 2.5rem;
+}

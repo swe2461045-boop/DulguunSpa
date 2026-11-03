@@ -1,0 +1,7526 @@
+[
+  {
+    "food_code": "01_0106",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Barley flour, whole grain",
+      "mn": "Арвайн эслэгт гурил"
+    },
+    "scientific_name": "Hordeum vulgare",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 358,
+      "Water (g)": 9.7,
+      "Protein (g)": 12.05,
+      "Fat (g)": 0.55,
+      "Ash (g)": 1.59,
+      "Carbohydrate (g)": 76.13
+    },
+    "minerals": {
+      "Calcium (mg)": 100,
+      "Iron (mg)": 18.7,
+      "Phosphorus (mg)": 24,
+      "Potassium (mg)": 7,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 1,
+      "Thiamin (mg)": 0.28,
+      "Riboflavin (mg)": 0.11,
+      "Vitamin C (mg)": 22.95,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "Product name: Fiber barley  flour",
+        "mn": "Бүтээгдэхүүний нэр: Эслэгтэй арвайн гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0105",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Barley flour, whole grain, pearled",
+      "mn": "Халтар арвайн гурил"
+    },
+    "scientific_name": "Hordeum vulgare",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 368,
+      "Water (g)": 7.7,
+      "Protein (g)": 12.67,
+      "Fat (g)": 1.32,
+      "Ash (g)": 1.9,
+      "Carbohydrate (g)": 76.4
+    },
+    "minerals": {
+      "Calcium (mg)": 99,
+      "Iron (mg)": 27.32,
+      "Phosphorus (mg)": 28,
+      "Potassium (mg)": 5,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 1,
+      "Thiamin (mg)": 0.421,
+      "Riboflavin (mg)": 0.128,
+      "Vitamin C (mg)": 15.57,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Altan duulga JSC",
+        "mn": "Хөвсгөл аймаг, Алтан дуулга ХК"
+      },
+      "Collection date": "25.11.2021",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "Product name: Pearled barley flour,  Rousted barley flour",
+        "mn": "Бүтээгдэхүүний нэр: Хальсалсан арвайн гурил, Шарсан арвайн гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0003",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Barley, whole grain, pearled, raw",
+      "mn": "Халтар арвай"
+    },
+    "scientific_name": "Hordeum vulgare",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 340,
+      "Water (g)": 14.7,
+      "Protein (g)": 12.63,
+      "Fat (g)": 1.41,
+      "Ash (g)": 1.95,
+      "Carbohydrate (g)": 69.32
+    },
+    "minerals": {
+      "Calcium (mg)": 100,
+      "Iron (mg)": 18.6,
+      "Phosphorus (mg)": 20,
+      "Potassium (mg)": 10,
+      "Sodium (mg)": 5
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.49,
+      "Riboflavin (mg)": 0.111,
+      "Vitamin C (mg)": 15.57,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Altan duulga JSC",
+        "mn": "Хөвсгөл аймаг, Алтан дуулга ХК"
+      },
+      "Collection date": "2021.11.25",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.038",
+      "Weight of edible part (g/1 piece)": "0.038",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0002",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Barley, whole grain, raw",
+      "mn": "Арвай"
+    },
+    "scientific_name": "Hordeum vulgare",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 343,
+      "Water (g)": 14.2,
+      "Protein (g)": 12.46,
+      "Fat (g)": 1.42,
+      "Ash (g)": 1.76,
+      "Carbohydrate (g)": 70.15
+    },
+    "minerals": {
+      "Calcium (mg)": 97,
+      "Iron (mg)": 41.39,
+      "Phosphorus (mg)": 20,
+      "Potassium (mg)": 10,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.328,
+      "Riboflavin (mg)": 0.13,
+      "Vitamin C (mg)": 12.89,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.044",
+      "Weight of edible part (g/1 piece)": "0.044",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0110",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Bread, rye",
+      "mn": "Хөх тарианы талх"
+    },
+    "scientific_name": "Secale cereale ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 292,
+      "Water (g)": 36.4,
+      "Protein (g)": 10.62,
+      "Fat (g)": 9,
+      "Ash (g)": 1.78,
+      "Carbohydrate (g)": 42.25
+    },
+    "minerals": {
+      "Calcium (mg)": 35,
+      "Iron (mg)": 3.77,
+      "Phosphorus (mg)": 217,
+      "Potassium (mg)": 245,
+      "Sodium (mg)": 6
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.095,
+      "Riboflavin (mg)": 0.347,
+      "Vitamin C (mg)": 37.83,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Talkh chikher LC",
+        "mn": "Улаанбаатар хот, Талх чихэр ХК"
+      },
+      "Collection date": "11.05.2024",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Talkh chikher, Misheel brand, Rye bread",
+        "mn": "Бүтээгдэхүүний нэр: Талх чихэр, Мишээл брэнд, Хөх тарианы талх"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "600",
+      "Weight of edible part (g/1 piece)": "600",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "direct use, toast. Rye is prepared from a  pure, naturally fermented culture. That is why it has a unique and pleasant taste and smell of rye. Rye bread is contains in various minerals, fiber and E, PP, B vitamins.",
+        "mn": "Шууд хэрэглэж эсвэл шарж хэрэглэнэ. Хөх тариаг цэвэр, байгалийн аргаар исгэсэн хөрөнгөөр бэлтгэдэг. Иймээс өвөрмөц сайхан амт үнэртэй байдаг. Хөх тарианы талх нь төрөл бүрийн эрдэс бодис, эслэг болон Е, PP, B витаминаар баялаг."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "Remark: People allergic to gluten protein from grains, take note.",
+        "mn": "Анхааруулга: Үр тарианы глютен уурагт харшилтай хүмүүс анхаарна уу."
+      },
+      "Reference for condition setting": {
+        "en": "Store for 48 hour at nom higher than 15*C-18*C with relative humidity nk more than 70% in a cool dry place away from sunlight",
+        "mn": "Нарны шууд тусгалаас хол, сэрүүн хуурай газар 15°C–18°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 70%-иас ихгүй нөхцөлд 48 цаг хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "01_0109",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Bread, wheat",
+      "mn": "Буудайн талх"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 248,
+      "Water (g)": 39.2,
+      "Protein (g)": 7.7,
+      "Fat (g)": 2.11,
+      "Ash (g)": 1.38,
+      "Carbohydrate (g)": 49.63
+    },
+    "minerals": {
+      "Calcium (mg)": 24,
+      "Iron (mg)": 1.19,
+      "Phosphorus (mg)": 38,
+      "Potassium (mg)": 122,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.092,
+      "Riboflavin (mg)": 0.134,
+      "Vitamin C (mg)": 11.49,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Talkh chikher LC",
+        "mn": "Улаанбаатар хот, Талх чихэр ХК"
+      },
+      "Collection date": "11.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Talkh chikher, Atar brand, wheat bread",
+        "mn": "Бүтээгдэхүүний нэр: Талх чихэр, Атар брэнд, Улаанбуудайн талх"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "600",
+      "Weight of edible part (g/1 piece)": "600",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": " direct use, toast. A unique product that has not been changed for 30 years, a unique fragrance and flavor that is considered to be the best for consumers.",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "Remark: People allergic to gluten protein from grains, take note.",
+        "mn": "Анхааруулга: Үр тарианы глютен уурагт харшилтай хүмүүс анхаарна уу."
+      },
+      "Reference for condition setting": {
+        "en": "Store for 48 hour at nom higher than 15*C-18*C with relative humidity nk more than 70% in a cool dry place away from sunlight",
+        "mn": "Нарны шууд тусгалаас хол, сэрүүн хуурай газар 15°C–18°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 70%-иас ихгүй нөхцөлд 48 цаг хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "01_0112",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Bread, wheat, multi-seeds ",
+      "mn": "Олон үрийн талх"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 286,
+      "Water (g)": 38.8,
+      "Protein (g)": 11,
+      "Fat (g)": 9.5,
+      "Ash (g)": 1.59,
+      "Carbohydrate (g)": 39.11
+    },
+    "minerals": {
+      "Calcium (mg)": 32,
+      "Iron (mg)": 2,
+      "Phosphorus (mg)": 171,
+      "Potassium (mg)": 97,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.025,
+      "Riboflavin (mg)": 0.256,
+      "Vitamin C (mg)": 23.17,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Talkh chikher LC",
+        "mn": "Улаанбаатар хот, Талх чихэр ХК"
+      },
+      "Collection date": "11.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Talkh chikher, Special brand, Multi-seeded crop, fortified multigrain",
+        "mn": "Бүтээгдэхүүний нэр: Талх чихэр, Спешиал брэнд, олон үртэй баяжуулсан үр тарианы бүтээгдэхүүн"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "250",
+      "Weight of edible part (g/1 piece)": "250",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": " direct use, toast. Contains rye flour, sunflower seeds, culture, sesame seeds, hercules. This product improves intestinal motility. Therefore, it is more suitablefor people who are overweight or who are maintaining weight.",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "Remark: People allergic to gluten protein from grains, take note.",
+        "mn": "Анхааруулга: Үр тарианы глютен уурагт харшилтай хүмүүс анхаарна уу."
+      },
+      "Reference for condition setting": {
+        "en": "Store for 72 hour at nom higher than 15*C-18*C with relative humidity nk more than 70% in a cool dry place away from sunlight",
+        "mn": "Нарны шууд тусгалаас хол, сэрүүн хуурай газар 15°C–18°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 70%-иас ихгүй нөхцөлд 72 цаг хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "01_0114",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Noodles, wheat, multi-seeds",
+      "mn": "Гоймон (олон үрийн)"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 346,
+      "Water (g)": 12.5,
+      "Protein (g)": 14.64,
+      "Fat (g)": 1.52,
+      "Ash (g)": 2.94,
+      "Carbohydrate (g)": 68.39
+    },
+    "minerals": {
+      "Calcium (mg)": 10,
+      "Iron (mg)": 0.25,
+      "Phosphorus (mg)": 9,
+      "Potassium (mg)": 97,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.096,
+      "Riboflavin (mg)": 0.137,
+      "Vitamin C (mg)": 5.4,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Green industry LLC",
+        "mn": "Улаанбаатар хот, Грийн индастри ХХК"
+      },
+      "Collection date": "11.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Lapsha, Ribbon noodle with multigrain flour",
+        "mn": "Бүтээгдэхүүний нэр: Лапша, олон үрийн гурилтай хавтгай гоймон"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "300",
+      "Weight of edible part (g/1 piece)": "300",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "Boil for 7 to 9 minutes in hot boiling water. After cooking, soak in cold water and drainthrough colander. Prepared noodles can be used for any kind of meals.",
+        "mn": "Буцалж буй халуун усанд 7–9 минут чанана. Болгосны дараа хүйтэн усанд сойж шүүж хэрэглэнэ. Бэлэн болсон гоймонг төрөл бүрийн хоолонд ашиглаж болно."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "Remark: Check whether storage conditions is proper before use6 People who has allergy from the ingredient must it by suitable amount.",
+        "mn": "Анхааруулга: Хэрэглэхийн өмнө хадгалалтын нөхцөл зөв эсэхийг шалгана уу. Найрлаганд харшилтай хүмүүс тохирох хэмжээгээр хэрэглэнэ үү."
+      },
+      "Reference for condition setting": {
+        "en": "Store for 12 months at nom higher than 30*C with relative humidity nk more than 70%",
+        "mn": "30°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 70%-иас ихгүй нөхцөлд 12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "01_0108",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Oat flour, milled",
+      "mn": "Овъёосны гурил"
+    },
+    "scientific_name": "Avena sativa ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 367,
+      "Water (g)": 9.3,
+      "Protein (g)": 14.25,
+      "Fat (g)": 1.65,
+      "Ash (g)": 1.05,
+      "Carbohydrate (g)": 73.74
+    },
+    "minerals": {
+      "Calcium (mg)": 41,
+      "Iron (mg)": 3.53,
+      "Phosphorus (mg)": 49,
+      "Potassium (mg)": 355,
+      "Sodium (mg)": 21
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.195,
+      "Riboflavin (mg)": 0.135,
+      "Vitamin C (mg)": 19.31,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Monfood land LLC",
+        "mn": "Улаанбаатар хот, Монфүүд ланд ХХК"
+      },
+      "Collection date": "23.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Oat flour",
+        "mn": "Бүтээгдэхүүний нэр: Овьёосны гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "500",
+      "Weight of edible part (g/1 piece)": "500",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store the product for 1 year at a temperature of up to 15*C in a place with relative air humidity not higher than 60%. Must be stored at pest-free, odor-free, cool and dry environment.",
+        "mn": "Бүтээгдэхүүнийг 15°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 60%-иас ихгүй нөхцөлд 1 жил хадгална. Хортон шавьжгүй, үнэргүй, сэрүүн хуурай орчинд хадгалах шаардлагатай."
+      }
+    }
+  },
+  {
+    "food_code": "01_0005",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Oat, polished, raw",
+      "mn": "Овъёос"
+    },
+    "scientific_name": "Avena sativa ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 368,
+      "Water (g)": 13.7,
+      "Protein (g)": 10.83,
+      "Fat (g)": 6.17,
+      "Ash (g)": 1.91,
+      "Carbohydrate (g)": 67.4
+    },
+    "minerals": {
+      "Calcium (mg)": 149,
+      "Iron (mg)": 51.1,
+      "Phosphorus (mg)": 32,
+      "Potassium (mg)": 11,
+      "Sodium (mg)": 11
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.57,
+      "Riboflavin (mg)": 0.119,
+      "Vitamin C (mg)": 1.46,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Monfood land LLC",
+        "mn": "Улаанбаатар хот, Монфүүд ланд ХХК"
+      },
+      "Collection date": "23.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.037",
+      "Weight of edible part (g/1 piece)": "0.037",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0107",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Rye flour, milled",
+      "mn": "Хөх тарианы гурил"
+    },
+    "scientific_name": "Secale cereale ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 378,
+      "Water (g)": 10.3,
+      "Protein (g)": 12.29,
+      "Fat (g)": 5.22,
+      "Ash (g)": 1.75,
+      "Carbohydrate (g)": 70.4
+    },
+    "minerals": {
+      "Calcium (mg)": 22,
+      "Iron (mg)": 2.13,
+      "Phosphorus (mg)": 76,
+      "Potassium (mg)": 169,
+      "Sodium (mg)": 3
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.226,
+      "Riboflavin (mg)": 0.175,
+      "Vitamin C (mg)": 63.13,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Talkh chikher LC",
+        "mn": "Улаанбаатар хот, Талх чихэр ХК"
+      },
+      "Collection date": "11.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "5000",
+      "Weight of edible part (g/1 piece)": "5000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store the product for 1 year at a temperature of up to 15*C in a place with relative air humidity not higher than 60%. Must be stored at pest-free, odor-free, cool and dry environment.",
+        "mn": "Бүтээгдэхүүнийг 15°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 60%-иас ихгүй нөхцөлд 1 жил хадгална. Хортон шавьжгүй, үнэргүй, сэрүүн хуурай орчинд хадгалах шаардлагатай."
+      }
+    }
+  },
+  {
+    "food_code": "01_0004",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Rye, whole grain, raw",
+      "mn": "Хөх тариа"
+    },
+    "scientific_name": "Secale cereale ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 350,
+      "Water (g)": 13.1,
+      "Protein (g)": 9.43,
+      "Fat (g)": 1.88,
+      "Ash (g)": 1.84,
+      "Carbohydrate (g)": 73.75
+    },
+    "minerals": {
+      "Calcium (mg)": 86,
+      "Iron (mg)": 17.2,
+      "Phosphorus (mg)": 19,
+      "Potassium (mg)": 12,
+      "Sodium (mg)": 5
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 2,
+      "Thiamin (mg)": 0.438,
+      "Riboflavin (mg)": 0.198,
+      "Vitamin C (mg)": 11.11,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Plant Protection and Research Institute",
+        "mn": "Дархан-Уул аймаг, Ургамал хамгаалал эрдэм шинжилгээний хүрээлэн"
+      },
+      "Collection date": "23.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.028",
+      "Weight of edible part (g/1 piece)": "0.028",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0103",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat flour, brown",
+      "mn": "Буудайн гурил-140 "
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 355,
+      "Water (g)": 12.2,
+      "Protein (g)": 13.22,
+      "Fat (g)": 1.93,
+      "Ash (g)": 1.39,
+      "Carbohydrate (g)": 71.3
+    },
+    "minerals": {
+      "Calcium (mg)": 248,
+      "Iron (mg)": 50.05,
+      "Phosphorus (mg)": 27,
+      "Potassium (mg)": 9,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.37,
+      "Riboflavin (mg)": 0.12,
+      "Vitamin C (mg)": 7.18,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+        "mn": "Дархан-Уул аймаг, Улаанбаатар гурил ХК"
+      },
+      "Collection date": "24.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Ulaanbaatar flour,  First grade wheat flour",
+        "mn": "Бүтээгдэхүүний нэр: Улаанбаатар гурил, Нэгдүгээр гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0101",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat flour, strong white",
+      "mn": "Буудайн гурил-055"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 349,
+      "Water (g)": 13.8,
+      "Protein (g)": 15.15,
+      "Fat (g)": 1.38,
+      "Ash (g)": 0.57,
+      "Carbohydrate (g)": 69.07
+    },
+    "minerals": {
+      "Calcium (mg)": 88,
+      "Iron (mg)": 2.17,
+      "Phosphorus (mg)": 16,
+      "Potassium (mg)": 13,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.187,
+      "Riboflavin (mg)": 0.059,
+      "Vitamin C (mg)": 28.35,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+        "mn": "Дархан-Уул аймаг, Улаанбаатар гурил ХК"
+      },
+      "Collection date": "24.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0102",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat flour, white",
+      "mn": "Буудайн гурил-085"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 348,
+      "Water (g)": 13.7,
+      "Protein (g)": 14.85,
+      "Fat (g)": 1.17,
+      "Ash (g)": 0.86,
+      "Carbohydrate (g)": 69.43
+    },
+    "minerals": {
+      "Calcium (mg)": 85,
+      "Iron (mg)": 16.07,
+      "Phosphorus (mg)": 18,
+      "Potassium (mg)": 15,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.251,
+      "Riboflavin (mg)": 0.081,
+      "Vitamin C (mg)": 28.65,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Ulaanbaatar flour mill JSC",
+        "mn": "Дархан-Уул аймаг, Улаанбаатар гурил ХК"
+      },
+      "Collection date": "24.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Ulaanbaatar flour,  Premium grade wheat flour",
+        "mn": "Бүтээгдэхүүний нэр: Улаанбаатар гурил, Дээд гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0104",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat flour, whole ",
+      "mn": "Бүхэл үрийн гурил"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 362,
+      "Water (g)": 10.6,
+      "Protein (g)": 13.29,
+      "Fat (g)": 2.06,
+      "Ash (g)": 1.41,
+      "Carbohydrate (g)": 72.67
+    },
+    "minerals": {
+      "Calcium (mg)": 111,
+      "Iron (mg)": 21.71,
+      "Phosphorus (mg)": 21,
+      "Potassium (mg)": 9,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.411,
+      "Riboflavin (mg)": 0.151,
+      "Vitamin C (mg)": 10,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Altan duulga JSC",
+        "mn": "Хөвсгөл аймаг, Алтан дуулга ХК"
+      },
+      "Collection date": "25.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Altan duulga flour,  whole wheat flour",
+        "mn": "Бүтээгдэхүүний нэр: Алтан дуулга гурил, Бүхэл үрийн гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "5000",
+      "Weight of edible part (g/1 piece)": "5000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0001",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Wheat, whole grain, raw",
+      "mn": "Улаан буудай"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 349,
+      "Water (g)": 13.6,
+      "Protein (g)": 12.48,
+      "Fat (g)": 1.77,
+      "Ash (g)": 1.35,
+      "Carbohydrate (g)": 70.84
+    },
+    "minerals": {
+      "Calcium (mg)": 78,
+      "Iron (mg)": 23.37,
+      "Phosphorus (mg)": 23,
+      "Potassium (mg)": 8,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 3,
+      "Thiamin (mg)": 0.449,
+      "Riboflavin (mg)": 0.146,
+      "Vitamin C (mg)": 16.23,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Plant Protection and Research Institute",
+        "mn": "Дархан-Уул аймаг, Ургамал хамгаалал эрдэм шинжилгээний хүрээлэн"
+      },
+      "Collection date": "23.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.04",
+      "Weight of edible part (g/1 piece)": "0.04",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "02_0001",
+    "food_group": {
+      "en": "Starchy Roots and Starch products",
+      "mn": "Цардуул агуулсан хүнс"
+    },
+    "food_name": {
+      "en": "Potato, raw",
+      "mn": "Төмс"
+    },
+    "scientific_name": "Solanum tuberosum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 165,
+      "Water (g)": 59.1,
+      "Protein (g)": 1.45,
+      "Fat (g)": 0.69,
+      "Ash (g)": 0.47,
+      "Carbohydrate (g)": 38.3
+    },
+    "minerals": {
+      "Calcium (mg)": 7,
+      "Iron (mg)": 0.63,
+      "Phosphorus (mg)": 46,
+      "Potassium (mg)": 414,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.231,
+      "Riboflavin (mg)": 0.119,
+      "Vitamin C (mg)": 17.9,
+      "Refuse (%)": 20.7
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Gatsuurt LLC",
+        "mn": "Улаанбаатар хот, Гацуурт ХХК"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "138.9",
+      "Weight of edible part (g/1 piece)": "110.1",
+      "Inedible part (discarded part)": {
+        "en": "outer peel, root piece",
+        "mn": "Гадна хальс, үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "28.8"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, bake, fry in oil",
+        "mn": "Чанах, жигнэх, тосонд шарах"
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "02_0101",
+    "food_group": {
+      "en": "Starchy Roots and Starch products",
+      "mn": "Цардуул агуулсан хүнс"
+    },
+    "food_name": {
+      "en": "Vermicelli, potato starch, raw",
+      "mn": "Пүнтүүз"
+    },
+    "scientific_name": "Solanum tuberosum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 344,
+      "Water (g)": 14.2,
+      "Protein (g)": 0.82,
+      "Fat (g)": 0.77,
+      "Ash (g)": 0.84,
+      "Carbohydrate (g)": 83.42
+    },
+    "minerals": {
+      "Calcium (mg)": 3,
+      "Iron (mg)": 5.27,
+      "Phosphorus (mg)": 7,
+      "Potassium (mg)": 9,
+      "Sodium (mg)": 8
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.066,
+      "Riboflavin (mg)": 0.075,
+      "Vitamin C (mg)": 1.87,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Taivanzul LLC",
+        "mn": "Улаанбаатар хот, Тайванзул ХХК"
+      },
+      "Collection date": "22.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Tungalag, vermicelli",
+        "mn": "Бүтээгдэхүүний нэр: Тунгалаг, вермишель"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "450",
+      "Weight of edible part (g/1 piece)": "450",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 1 year at with in a cool dry place away from sunlig.",
+        "mn": "Нарны шууд тусгалаас хол, сэрүүн хуурай газар 1 жил хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "03_0001",
+    "food_group": {
+      "en": "Pulses",
+      "mn": "Буурцагт хүнс"
+    },
+    "food_name": {
+      "en": "Peas, dry",
+      "mn": "Вандуй"
+    },
+    "scientific_name": "Pisum arvense",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 343,
+      "Water (g)": 14.2,
+      "Protein (g)": 12.46,
+      "Fat (g)": 1.42,
+      "Ash (g)": 1.76,
+      "Carbohydrate (g)": 70.15
+    },
+    "minerals": {
+      "Calcium (mg)": 79,
+      "Iron (mg)": 14.93,
+      "Phosphorus (mg)": 34,
+      "Potassium (mg)": 24,
+      "Sodium (mg)": 7
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 1,
+      "Thiamin (mg)": 0.58,
+      "Riboflavin (mg)": 0.15,
+      "Vitamin C (mg)": 14.86,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Plant Protection and Research Institute",
+        "mn": "Дархан-Уул аймаг, Ургамал хамгаалал эрдэм шинжилгээний хүрээлэн"
+      },
+      "Collection date": "24.11.2021",
+      "Basis of sample selection": {
+        "en": "Biodiversity",
+        "mn": "Биологийн олон янз байдал"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.128",
+      "Weight of edible part (g/1 piece)": "0.128",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "03_0002",
+    "food_group": {
+      "en": "Pulses",
+      "mn": "Буурцагт хүнс"
+    },
+    "food_name": {
+      "en": "Soybean, dry",
+      "mn": "Шар буурцаг"
+    },
+    "scientific_name": "Glycine hispida ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 349,
+      "Water (g)": 13.6,
+      "Protein (g)": 32.56,
+      "Fat (g)": 1.77,
+      "Ash (g)": 1.35,
+      "Carbohydrate (g)": 50.72
+    },
+    "minerals": {
+      "Calcium (mg)": 81,
+      "Iron (mg)": 15.74,
+      "Phosphorus (mg)": 36,
+      "Potassium (mg)": 8,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 6,
+      "Thiamin (mg)": 0.82,
+      "Riboflavin (mg)": 0.22,
+      "Vitamin C (mg)": 1.39,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Plant Protection and Research Institute",
+        "mn": "Дархан-Уул аймаг, Ургамал хамгаалал эрдэм шинжилгээний хүрээлэн"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Biodiversity",
+        "mn": "Биологийн олон янз байдал"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.146",
+      "Weight of edible part (g/1 piece)": "0.146",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "06_0103",
+    "food_group": {
+      "en": "Nuts and Seeds",
+      "mn": "Самар ба тост үр"
+    },
+    "food_name": {
+      "en": "Flax seed flour",
+      "mn": "Маалингийн гурил"
+    },
+    "scientific_name": "Linum usitatissimum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 447,
+      "Water (g)": 6,
+      "Protein (g)": 38.68,
+      "Fat (g)": 17.59,
+      "Ash (g)": 4.31,
+      "Carbohydrate (g)": 33.43
+    },
+    "minerals": {
+      "Calcium (mg)": 187,
+      "Iron (mg)": 4.84,
+      "Phosphorus (mg)": 199,
+      "Potassium (mg)": 697,
+      "Sodium (mg)": 28
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.056,
+      "Riboflavin (mg)": 0.068,
+      "Vitamin C (mg)": 52.58,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Monfood land LLC",
+        "mn": "Улаанбаатар хот, Монфүүд ланд ХХК"
+      },
+      "Collection date": "22.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Flax flour",
+        "mn": "Бүтээгдэхүүний нэр: Маалингын гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "500",
+      "Weight of edible part (g/1 piece)": "500",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store the product for 1 year at a temperature of up to 15*C in a place with relative air humidity not higher than 60%. Must be stored at pest-free, odor-free, cool and dry environment.",
+        "mn": "Бүтээгдэхүүнийг 15°C-ээс дээшгүй температурт, агаарын харьцангуй чийгшил 60%-иас ихгүй нөхцөлд 1 жил хадгална. Хортон шавьжгүй, үнэргүй, сэрүүн хуурай орчинд хадгалах шаардлагатай."
+      }
+    }
+  },
+  {
+    "food_code": "06_0002",
+    "food_group": {
+      "en": "Nuts and Seeds",
+      "mn": "Самар ба тост үр"
+    },
+    "food_name": {
+      "en": "Flax seed, raw",
+      "mn": "Маалингийн үр"
+    },
+    "scientific_name": "Linum usitatissimum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 449,
+      "Water (g)": 5.7,
+      "Protein (g)": 12.79,
+      "Fat (g)": 15.98,
+      "Ash (g)": 2.08,
+      "Carbohydrate (g)": 63.48
+    },
+    "minerals": {
+      "Calcium (mg)": 227,
+      "Iron (mg)": 4.87,
+      "Phosphorus (mg)": 46,
+      "Potassium (mg)": 775,
+      "Sodium (mg)": 30
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.382,
+      "Riboflavin (mg)": 1.432,
+      "Vitamin C (mg)": 14.46,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Monfood land LLC",
+        "mn": "Улаанбаатар хот, Монфүүд ланд ХХК"
+      },
+      "Collection date": "23.11.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Flax seeds",
+        "mn": "Бүтээгдэхүүний нэр: Маалингын үр"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "500",
+      "Weight of edible part (g/1 piece)": "500",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "06_0101",
+    "food_group": {
+      "en": "Nuts and Seeds",
+      "mn": "Самар ба тост үр"
+    },
+    "food_name": {
+      "en": "Pine nut, kernel, peeled, raw ",
+      "mn": "Хуш модны самрын чөмөг"
+    },
+    "scientific_name": "Pinus sibirica",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 675,
+      "Water (g)": 8.6,
+      "Protein (g)": 15.05,
+      "Fat (g)": 63.93,
+      "Ash (g)": 2.56,
+      "Carbohydrate (g)": 9.88
+    },
+    "minerals": {
+      "Calcium (mg)": 99,
+      "Iron (mg)": 28.8,
+      "Phosphorus (mg)": 35,
+      "Potassium (mg)": 13,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.391,
+      "Riboflavin (mg)": 0.12,
+      "Vitamin C (mg)": 22.22,
+      "Refuse (%)": 50.9
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Nord Road LLC",
+        "mn": "Улаанбаатар хот, Норд Роуд ХХК"
+      },
+      "Collection date": "24.12.2021",
+      "Basis of sample selection": {
+        "en": "Exported food",
+        "mn": "Экспортын хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Hushkhan pine nut seeds",
+        "mn": "Бүтээгдэхүүний нэр: Хушхан самрын үр"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.133",
+      "Weight of edible part (g/1 piece)": "0.133",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "06_0001",
+    "food_group": {
+      "en": "Nuts and Seeds",
+      "mn": "Самар ба тост үр"
+    },
+    "food_name": {
+      "en": "Pine nut, raw",
+      "mn": "Хуш модны самар"
+    },
+    "scientific_name": "Pinus sibirica",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 681,
+      "Water (g)": 8.6,
+      "Protein (g)": 15.05,
+      "Fat (g)": 63.93,
+      "Ash (g)": 1.01,
+      "Carbohydrate (g)": 11.43
+    },
+    "minerals": {
+      "Calcium (mg)": 45,
+      "Iron (mg)": 11.74,
+      "Phosphorus (mg)": 5,
+      "Potassium (mg)": 2,
+      "Sodium (mg)": 0
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.496,
+      "Riboflavin (mg)": 0.146,
+      "Vitamin C (mg)": 4.79,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Nord Road LLC",
+        "mn": "Улаанбаатар хот, Норд Роуд ХХК"
+      },
+      "Collection date": "24.12.2021",
+      "Basis of sample selection": {
+        "en": "Exported food",
+        "mn": "Экспортын хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Hushkhan pine nut",
+        "mn": "Бүтээгдэхүүний нэр: Хушхан самар"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.271",
+      "Weight of edible part (g/1 piece)": "0.133",
+      "Inedible part (discarded part)": {
+        "en": "outer shell",
+        "mn": "Гадна хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "0.138"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "06_0003",
+    "food_group": {
+      "en": "Nuts and Seeds",
+      "mn": "Самар ба тост үр"
+    },
+    "food_name": {
+      "en": "Sunflower seed, raw",
+      "mn": "Наранцэцгийн үр"
+    },
+    "scientific_name": "Helianthus annuus",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 615,
+      "Water (g)": 3.9,
+      "Protein (g)": 5.07,
+      "Fat (g)": 47.55,
+      "Ash (g)": 1.7,
+      "Carbohydrate (g)": 41.76
+    },
+    "minerals": {
+      "Calcium (mg)": 351,
+      "Iron (mg)": 4.7,
+      "Phosphorus (mg)": 61,
+      "Potassium (mg)": 628,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.527,
+      "Riboflavin (mg)": 0.458,
+      "Vitamin C (mg)": 18.32,
+      "Refuse (%)": 50
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Monfood land LLC",
+        "mn": "Улаанбаатар хот, Монфүүд ланд ХХК"
+      },
+      "Collection date": "09.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.18",
+      "Weight of edible part (g/1 piece)": "0.09",
+      "Inedible part (discarded part)": {
+        "en": "outer shell",
+        "mn": "Гадна хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "0.09"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0024",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Basil, raw",
+      "mn": "Базилик"
+    },
+    "scientific_name": "Ocimum basilicum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 104,
+      "Water (g)": 73.5,
+      "Protein (g)": 0.94,
+      "Fat (g)": 1.19,
+      "Ash (g)": 2,
+      "Carbohydrate (g)": 22.37
+    },
+    "minerals": {
+      "Calcium (mg)": 14,
+      "Iron (mg)": 0.9,
+      "Phosphorus (mg)": 17,
+      "Potassium (mg)": 284,
+      "Sodium (mg)": 10
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 22,
+      "Thiamin (mg)": 0.567,
+      "Riboflavin (mg)": 0.125,
+      "Vitamin C (mg)": 94.64,
+      "Refuse (%)": 9.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Greenhouse",
+        "mn": ""
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "2.1",
+      "Weight of edible part (g/1 piece)": "1.9",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "0.2"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use, drying powder",
+        "mn": "Усаар угааж хэрэглэх, хатааж нунтаглах"
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0015",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Beet, root, red, raw",
+      "mn": "Хүрэн манжин"
+    },
+    "scientific_name": "Beta vulgaris",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 129,
+      "Water (g)": 67.8,
+      "Protein (g)": 1.26,
+      "Fat (g)": 0.36,
+      "Ash (g)": 0.44,
+      "Carbohydrate (g)": 30.18
+    },
+    "minerals": {
+      "Calcium (mg)": 29,
+      "Iron (mg)": 1.01,
+      "Phosphorus (mg)": 13,
+      "Potassium (mg)": 216,
+      "Sodium (mg)": 37
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.016,
+      "Riboflavin (mg)": 0.072,
+      "Vitamin C (mg)": 26.74,
+      "Refuse (%)": 19
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Gatsuurt LLC",
+        "mn": "Улаанбаатар хот, Гацуурт ХХК"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "166.8",
+      "Weight of edible part (g/1 piece)": "135.1",
+      "Inedible part (discarded part)": {
+        "en": "outer peel, root piece",
+        "mn": "Гадна хальс, үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "31.7"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, bake, fry in oil, pickling",
+        "mn": "Чанах, жигнэх, тосонд шарах, даршлах"
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0014",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Beet, root, yellow, raw",
+      "mn": "Шар манжин"
+    },
+    "scientific_name": "Beta vulgaris",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 168,
+      "Water (g)": 58.5,
+      "Protein (g)": 0.8,
+      "Fat (g)": 0.82,
+      "Ash (g)": 0.5,
+      "Carbohydrate (g)": 39.36
+    },
+    "minerals": {
+      "Calcium (mg)": 33,
+      "Iron (mg)": 0.75,
+      "Phosphorus (mg)": 14,
+      "Potassium (mg)": 162,
+      "Sodium (mg)": 13
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 8,
+      "Thiamin (mg)": 0.018,
+      "Riboflavin (mg)": 0.023,
+      "Vitamin C (mg)": 20.3,
+      "Refuse (%)": 28
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Gatsuurt LLC",
+        "mn": "Улаанбаатар хот, Гацуурт ХХК"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "257.4",
+      "Weight of edible part (g/1 piece)": "185.2",
+      "Inedible part (discarded part)": {
+        "en": "outer peel, root piece",
+        "mn": "Гадна хальс, үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "72.2"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, fry in oil, bake",
+        "mn": "Чанах, тосонд шарах, жигнэх"
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0003",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Broccoli, raw ",
+      "mn": "Брокколи"
+    },
+    "scientific_name": "Brassica oleracea ",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 31,
+      "Water (g)": 90.5,
+      "Protein (g)": 2.26,
+      "Fat (g)": 1.24,
+      "Ash (g)": 3.36,
+      "Carbohydrate (g)": 2.64
+    },
+    "minerals": {
+      "Calcium (mg)": 22,
+      "Iron (mg)": 0.73,
+      "Phosphorus (mg)": 31,
+      "Potassium (mg)": 180,
+      "Sodium (mg)": 9
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.231,
+      "Riboflavin (mg)": 0.188,
+      "Vitamin C (mg)": 9.83,
+      "Refuse (%)": 10.4
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Rashaant 61",
+        "mn": "Дархан-Уул аймаг, Рашаант 61"
+      },
+      "Collection date": "07.09.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "335",
+      "Weight of edible part (g/1 piece)": "300",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "35"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store broccoli in the refrigerator for up to 5 days. Broccoli can be blanched and frozen for up to one year.",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0001",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Cabbage, green, raw",
+      "mn": "Бөөрөнхий байцаа "
+    },
+    "scientific_name": "Brassica oleracea",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 39,
+      "Water (g)": 88.4,
+      "Protein (g)": 0.77,
+      "Fat (g)": 0.58,
+      "Ash (g)": 0.59,
+      "Carbohydrate (g)": 9.66
+    },
+    "minerals": {
+      "Calcium (mg)": 38,
+      "Iron (mg)": 0.6,
+      "Phosphorus (mg)": 26,
+      "Potassium (mg)": 233,
+      "Sodium (mg)": 11
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.063,
+      "Riboflavin (mg)": 0.075,
+      "Vitamin C (mg)": 57.29,
+      "Refuse (%)": 16.8
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Gatsuurt LLC",
+        "mn": "Улаанбаатар хот, Гацуурт ХХК"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1363.5",
+      "Weight of edible part (g/1 piece)": "1134.3",
+      "Inedible part (discarded part)": {
+        "en": "cabbage core, outer peel",
+        "mn": "Байцааны гол, гадна хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "229.2"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, bake, fry in oil, pickling",
+        "mn": "Чанах, жигнэх, тосонд шарах, даршлах"
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0002",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Cabbage, purple, raw",
+      "mn": "Хүрэн байцаа"
+    },
+    "scientific_name": "Brassica oleracea",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 29,
+      "Water (g)": 91.3,
+      "Protein (g)": 1.02,
+      "Fat (g)": 0.71,
+      "Ash (g)": 2.27,
+      "Carbohydrate (g)": 4.7
+    },
+    "minerals": {
+      "Calcium (mg)": 36,
+      "Iron (mg)": 0.62,
+      "Phosphorus (mg)": 6,
+      "Potassium (mg)": 192,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.018,
+      "Riboflavin (mg)": 0.039,
+      "Vitamin C (mg)": 46.22,
+      "Refuse (%)": 20.1
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Zuunburen",
+        "mn": "Сэлэнгэ аймаг, Зүүнбүрэн сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "868.7",
+      "Weight of edible part (g/1 piece)": "694.5",
+      "Inedible part (discarded part)": {
+        "en": "cabbage core, outer peel",
+        "mn": "Байцааны гол, гадна хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "174.2"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0013",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Carrot, raw",
+      "mn": "Лууван"
+    },
+    "scientific_name": "Daucus carota",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 133,
+      "Water (g)": 66.9,
+      "Protein (g)": 0.55,
+      "Fat (g)": 0.46,
+      "Ash (g)": 0.4,
+      "Carbohydrate (g)": 31.73
+    },
+    "minerals": {
+      "Calcium (mg)": 22,
+      "Iron (mg)": 0.76,
+      "Phosphorus (mg)": 13,
+      "Potassium (mg)": 170,
+      "Sodium (mg)": 41
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 27,
+      "Thiamin (mg)": 0.012,
+      "Riboflavin (mg)": 0.882,
+      "Vitamin C (mg)": 17.12,
+      "Refuse (%)": 23.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Gatsuurt LLC",
+        "mn": "Улаанбаатар хот, Гацуурт ХХК"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "152.6",
+      "Weight of edible part (g/1 piece)": "116.8",
+      "Inedible part (discarded part)": {
+        "en": "outer peel, root piece",
+        "mn": "Гадна хальс, үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "35.8"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, bake, fry in oil, pickling",
+        "mn": "Чанах, жигнэх, тосонд шарах, даршлах"
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0022",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Cauliflower, raw ",
+      "mn": "Цэцэгт байцаа"
+    },
+    "scientific_name": "Brassica oleracea",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 116,
+      "Water (g)": 71.6,
+      "Protein (g)": 1.62,
+      "Fat (g)": 0.98,
+      "Ash (g)": 0.73,
+      "Carbohydrate (g)": 25.12
+    },
+    "minerals": {
+      "Calcium (mg)": 12,
+      "Iron (mg)": 0.3,
+      "Phosphorus (mg)": 11,
+      "Potassium (mg)": 402,
+      "Sodium (mg)": 7
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.038,
+      "Riboflavin (mg)": 0.05,
+      "Vitamin C (mg)": 13.66,
+      "Refuse (%)": 20.4
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Zuunburen",
+        "mn": "Сэлэнгэ аймаг, Зүүнбүрэн сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "540",
+      "Weight of edible part (g/1 piece)": "430",
+      "Inedible part (discarded part)": {
+        "en": "root piece/stem, leaves",
+        "mn": "Үндэсний хэсэг/иш, навч"
+      },
+      "Weight of inedible part (g/1 piece)": "110"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0004",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Celery, raw",
+      "mn": "Шанцай"
+    },
+    "scientific_name": "Apium graveolens",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 103,
+      "Water (g)": 72.7,
+      "Protein (g)": 0.32,
+      "Fat (g)": 0.53,
+      "Ash (g)": 2.1,
+      "Carbohydrate (g)": 24.35
+    },
+    "minerals": {
+      "Calcium (mg)": 59,
+      "Iron (mg)": 0.9,
+      "Phosphorus (mg)": 22,
+      "Potassium (mg)": 363,
+      "Sodium (mg)": 9
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.124,
+      "Riboflavin (mg)": 0.557,
+      "Vitamin C (mg)": 9.83,
+      "Refuse (%)": 14.3
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Arshaantiin 18 LLC",
+        "mn": "Дархан-Уул аймаг, Аршаантын 18 ХХК"
+      },
+      "Collection date": "12.05.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "70",
+      "Weight of edible part (g/1 piece)": "60",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "10"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store in fridge for 2-3 weeks",
+        "mn": "Хөргөгчинд 2–3 долоо хоног хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "04_0010",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Eggplant, raw",
+      "mn": "Хаш"
+    },
+    "scientific_name": "Solanum melongena",
+    "province": {
+      "en": "Tuv",
+      "mn": "Төв"
+    },
+    "proximates": {
+      "Energy (kcal)": 37,
+      "Water (g)": 90.3,
+      "Protein (g)": 1.17,
+      "Fat (g)": 1.29,
+      "Ash (g)": 2.1,
+      "Carbohydrate (g)": 5.17
+    },
+    "minerals": {
+      "Calcium (mg)": 14,
+      "Iron (mg)": 0.31,
+      "Phosphorus (mg)": 56,
+      "Potassium (mg)": 230,
+      "Sodium (mg)": 6
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.115,
+      "Riboflavin (mg)": 0.038,
+      "Vitamin C (mg)": 3.42,
+      "Refuse (%)": 2.7
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Tuv province, Enkhiin Shim LLC",
+        "mn": "Төв аймаг, Энхийн шим ХХК"
+      },
+      "Collection date": "07.09.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "250",
+      "Weight of edible part (g/1 piece)": "243.2",
+      "Inedible part (discarded part)": {
+        "en": "stem ",
+        "mn": "Иш"
+      },
+      "Weight of inedible part (g/1 piece)": "6.8"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0016",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Garlic, raw",
+      "mn": "Сармис"
+    },
+    "scientific_name": "Allium sativum",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 212,
+      "Water (g)": 48,
+      "Protein (g)": 5.89,
+      "Fat (g)": 1.58,
+      "Ash (g)": 1.03,
+      "Carbohydrate (g)": 43.45
+    },
+    "minerals": {
+      "Calcium (mg)": 16,
+      "Iron (mg)": 1.39,
+      "Phosphorus (mg)": 20,
+      "Potassium (mg)": 379,
+      "Sodium (mg)": 9
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.059,
+      "Riboflavin (mg)": 0.084,
+      "Vitamin C (mg)": null,
+      "Refuse (%)": 16.3
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Gatsuurt LLC",
+        "mn": "Сэлэнгэ аймаг, Гацуурт ХХК"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "40",
+      "Weight of edible part (g/1 piece)": "33.5",
+      "Inedible part (discarded part)": {
+        "en": "Peel",
+        "mn": "Хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "6.5"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0025",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Kale, raw",
+      "mn": "Кейл"
+    },
+    "scientific_name": "Brassica oleracea",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 62,
+      "Water (g)": 84.1,
+      "Protein (g)": 3.81,
+      "Fat (g)": 0.86,
+      "Ash (g)": 1.46,
+      "Carbohydrate (g)": 9.79
+    },
+    "minerals": {
+      "Calcium (mg)": 157,
+      "Iron (mg)": 0.5,
+      "Phosphorus (mg)": 100,
+      "Potassium (mg)": 194,
+      "Sodium (mg)": 17
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 18,
+      "Thiamin (mg)": 0.286,
+      "Riboflavin (mg)": 0.119,
+      "Vitamin C (mg)": 92.4,
+      "Refuse (%)": 6.4
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Greenhouse",
+        "mn": ""
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "7.8",
+      "Weight of edible part (g/1 piece)": "7.3",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "0.5"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0019",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Lettuce, raw",
+      "mn": "Салат навч"
+    },
+    "scientific_name": "Lactuca sativa",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 36,
+      "Water (g)": 91.3,
+      "Protein (g)": 1.05,
+      "Fat (g)": 1.41,
+      "Ash (g)": 1.5,
+      "Carbohydrate (g)": 4.74
+    },
+    "minerals": {
+      "Calcium (mg)": 68,
+      "Iron (mg)": 0.51,
+      "Phosphorus (mg)": 67,
+      "Potassium (mg)": 191,
+      "Sodium (mg)": 8
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.163,
+      "Riboflavin (mg)": 0.091,
+      "Vitamin C (mg)": 23.74,
+      "Refuse (%)": 6.4
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Greenhouse",
+        "mn": ""
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "34.2",
+      "Weight of edible part (g/1 piece)": "32",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "2.2"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0020",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Parsley, raw",
+      "mn": "Яншуй"
+    },
+    "scientific_name": "Petroselinum crispum",
+    "province": {
+      "en": "Darkhan-Uul",
+      "mn": "Дархан-Уул"
+    },
+    "proximates": {
+      "Energy (kcal)": 64,
+      "Water (g)": 84,
+      "Protein (g)": 3.34,
+      "Fat (g)": 1.01,
+      "Ash (g)": 1.28,
+      "Carbohydrate (g)": 10.38
+    },
+    "minerals": {
+      "Calcium (mg)": 223,
+      "Iron (mg)": 1.77,
+      "Phosphorus (mg)": 81,
+      "Potassium (mg)": 697,
+      "Sodium (mg)": 29
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 33,
+      "Thiamin (mg)": 0.102,
+      "Riboflavin (mg)": 0.304,
+      "Vitamin C (mg)": 107.46,
+      "Refuse (%)": 8.6
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Darkhan-Uul province, Rashaant 61",
+        "mn": "Дархан-Уул аймаг, Рашаант 61"
+      },
+      "Collection date": "07.09.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "6.43",
+      "Weight of edible part (g/1 piece)": "5.88",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "0.55"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0006",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Pepper, bell pepper, red, raw",
+      "mn": "Улаан чинжүү"
+    },
+    "scientific_name": "Capsicum annuum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 48,
+      "Water (g)": 87.4,
+      "Protein (g)": 1.11,
+      "Fat (g)": 1.15,
+      "Ash (g)": 2.1,
+      "Carbohydrate (g)": 8.22
+    },
+    "minerals": {
+      "Calcium (mg)": 7,
+      "Iron (mg)": 0.32,
+      "Phosphorus (mg)": 8,
+      "Potassium (mg)": 151,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.174,
+      "Riboflavin (mg)": 0.184,
+      "Vitamin C (mg)": 47.33,
+      "Refuse (%)": 7.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Greenhouse",
+        "mn": ""
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1.9",
+      "Weight of edible part (g/1 piece)": "1.5",
+      "Inedible part (discarded part)": {
+        "en": "stem and seeds",
+        "mn": "Иш ба үр"
+      },
+      "Weight of inedible part (g/1 piece)": "0.4"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, bake, fry in oil, pickling, direct use",
+        "mn": "Чанах, жигнэх, тосонд шарах, даршлах, шууд хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0012",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Pumpkin, raw",
+      "mn": "Хулуу"
+    },
+    "scientific_name": "Cucurbita pepo",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 223,
+      "Water (g)": 45.3,
+      "Protein (g)": 1.62,
+      "Fat (g)": 1.3,
+      "Ash (g)": 0.7,
+      "Carbohydrate (g)": 51.1
+    },
+    "minerals": {
+      "Calcium (mg)": 16,
+      "Iron (mg)": 0.52,
+      "Phosphorus (mg)": 15,
+      "Potassium (mg)": 188,
+      "Sodium (mg)": 5
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 31,
+      "Thiamin (mg)": 0.177,
+      "Riboflavin (mg)": 0.259,
+      "Vitamin C (mg)": 8.32,
+      "Refuse (%)": 33.6
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Mandal",
+        "mn": "Сэлэнгэ аймаг, Мандал сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1125",
+      "Weight of edible part (g/1 piece)": "747",
+      "Inedible part (discarded part)": {
+        "en": "Peel and seeds",
+        "mn": "Хальс ба үр"
+      },
+      "Weight of inedible part (g/1 piece)": "378"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0005",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Spinach, raw",
+      "mn": "Бууцай"
+    },
+    "scientific_name": "Basella alba",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 59,
+      "Water (g)": 84.2,
+      "Protein (g)": 1.8,
+      "Fat (g)": 0.93,
+      "Ash (g)": 2.05,
+      "Carbohydrate (g)": 10.98
+    },
+    "minerals": {
+      "Calcium (mg)": 12,
+      "Iron (mg)": 2.6,
+      "Phosphorus (mg)": 15,
+      "Potassium (mg)": 652,
+      "Sodium (mg)": 40
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 34,
+      "Thiamin (mg)": 0.217,
+      "Riboflavin (mg)": 0.137,
+      "Vitamin C (mg)": 45.03,
+      "Refuse (%)": 6.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Greenhouse",
+        "mn": ""
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Delicate vegetables",
+        "mn": "Нарийн ногоо"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "13.8",
+      "Weight of edible part (g/1 piece)": "12.9",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "0.9"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "wash in water and use",
+        "mn": "Усаар угааж хэрэглэнэ."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "04_0018",
+    "food_group": {
+      "en": "Vegetables",
+      "mn": "Хүнсний ногоо"
+    },
+    "food_name": {
+      "en": "Spring onion, raw",
+      "mn": "Ногоон сонгино"
+    },
+    "scientific_name": "Allium cepa ",
+    "province": {
+      "en": "Tuv",
+      "mn": "Төв"
+    },
+    "proximates": {
+      "Energy (kcal)": 72,
+      "Water (g)": 82.2,
+      "Protein (g)": 0.95,
+      "Fat (g)": 1.37,
+      "Ash (g)": 1.61,
+      "Carbohydrate (g)": 13.89
+    },
+    "minerals": {
+      "Calcium (mg)": 88,
+      "Iron (mg)": 0.79,
+      "Phosphorus (mg)": 22,
+      "Potassium (mg)": 236,
+      "Sodium (mg)": 9
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": null,
+      "Riboflavin (mg)": 0.019,
+      "Vitamin C (mg)": 23.05,
+      "Refuse (%)": 8.8
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Tuv province, Atryn Shim LLC",
+        "mn": "Төв аймаг, Атрын шим ХХК"
+      },
+      "Collection date": "07.09.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "10",
+      "Weight of edible part (g/1 piece)": "9.12",
+      "Inedible part (discarded part)": {
+        "en": "root piece",
+        "mn": "Үндэсний хэсэг"
+      },
+      "Weight of inedible part (g/1 piece)": "0.88"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0002",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Apple, small, raw",
+      "mn": "Бэсрэг алим"
+    },
+    "scientific_name": "Malus domestica",
+    "province": {
+      "en": "Khovd",
+      "mn": "Ховд"
+    },
+    "proximates": {
+      "Energy (kcal)": 91,
+      "Water (g)": 78.4,
+      "Protein (g)": 0.73,
+      "Fat (g)": 2.52,
+      "Ash (g)": 1.97,
+      "Carbohydrate (g)": 16.35
+    },
+    "minerals": {
+      "Calcium (mg)": 14,
+      "Iron (mg)": 1.87,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 239,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 3,
+      "Thiamin (mg)": 0.178,
+      "Riboflavin (mg)": 0.159,
+      "Vitamin C (mg)": 6.34,
+      "Refuse (%)": 2.8
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "19.58",
+      "Weight of edible part (g/1 piece)": "19.04",
+      "Inedible part (discarded part)": {
+        "en": "leaves, stem, seeds",
+        "mn": "Навч, иш, үр"
+      },
+      "Weight of inedible part (g/1 piece)": "0.54"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0013",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Black currant, wild, frozen ",
+      "mn": "Хад"
+    },
+    "scientific_name": "Ribes nigrum",
+    "province": {
+      "en": "Arkhangai",
+      "mn": "Архангай"
+    },
+    "proximates": {
+      "Energy (kcal)": 96,
+      "Water (g)": 78,
+      "Protein (g)": 1.26,
+      "Fat (g)": 2.29,
+      "Ash (g)": 0.99,
+      "Carbohydrate (g)": 17.5
+    },
+    "minerals": {
+      "Calcium (mg)": 49,
+      "Iron (mg)": 1.37,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 340,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.266,
+      "Riboflavin (mg)": 0.268,
+      "Vitamin C (mg)": 18.65,
+      "Refuse (%)": 4.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Arkhangai province",
+        "mn": "Архангай аймаг"
+      },
+      "Collection date": "17.08.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.33",
+      "Weight of edible part (g/1 piece)": "0.315",
+      "Inedible part (discarded part)": {
+        "en": "seeds",
+        "mn": "Үр"
+      },
+      "Weight of inedible part (g/1 piece)": "0.015"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0011",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Blueberry, wild, frozen",
+      "mn": "Нэрс"
+    },
+    "scientific_name": "Vaccinium caesariense",
+    "province": {
+      "en": "Uvurkhangai",
+      "mn": "Өвөрхангай"
+    },
+    "proximates": {
+      "Energy (kcal)": 58,
+      "Water (g)": 86.6,
+      "Protein (g)": 1.09,
+      "Fat (g)": 1.55,
+      "Ash (g)": 0.84,
+      "Carbohydrate (g)": 9.91
+    },
+    "minerals": {
+      "Calcium (mg)": 14,
+      "Iron (mg)": 28.55,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 49,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.177,
+      "Riboflavin (mg)": 0.276,
+      "Vitamin C (mg)": 20.02,
+      "Refuse (%)": 0.3
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvurkhangai province",
+        "mn": "Өвөрхангай аймаг"
+      },
+      "Collection date": "17.08.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.38",
+      "Weight of edible part (g/1 piece)": "0.379",
+      "Inedible part (discarded part)": {
+        "en": "stem",
+        "mn": "Иш"
+      },
+      "Weight of inedible part (g/1 piece)": "0.001"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0010",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Cranberry, wild, frozen",
+      "mn": "Аньс"
+    },
+    "scientific_name": "Vaccinium caesariense",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 72,
+      "Water (g)": 82.8,
+      "Protein (g)": 0.69,
+      "Fat (g)": 0.85,
+      "Ash (g)": 0.39,
+      "Carbohydrate (g)": 15.28
+    },
+    "minerals": {
+      "Calcium (mg)": 38,
+      "Iron (mg)": 0.31,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 70,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.073,
+      "Riboflavin (mg)": 0.605,
+      "Vitamin C (mg)": 69.15,
+      "Refuse (%)": 1.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Mandal",
+        "mn": "Сэлэнгэ аймаг, Мандал сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.2",
+      "Weight of edible part (g/1 piece)": "0.197",
+      "Inedible part (discarded part)": {
+        "en": "stem",
+        "mn": "Иш"
+      },
+      "Weight of inedible part (g/1 piece)": "0.003"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0008",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Currants, black, wild, frozen",
+      "mn": "Үхрийн нүд, байгалийн"
+    },
+    "scientific_name": "Ribes nigrum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 67,
+      "Water (g)": 82.1,
+      "Protein (g)": 1.57,
+      "Fat (g)": 0.82,
+      "Ash (g)": 2.16,
+      "Carbohydrate (g)": 13.32
+    },
+    "minerals": {
+      "Calcium (mg)": 35,
+      "Iron (mg)": 1.26,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 365,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 1,
+      "Thiamin (mg)": 0.186,
+      "Riboflavin (mg)": 0.162,
+      "Vitamin C (mg)": 8.51,
+      "Refuse (%)": 0.7
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.97",
+      "Weight of edible part (g/1 piece)": "0.963",
+      "Inedible part (discarded part)": {
+        "en": "stem",
+        "mn": "Иш"
+      },
+      "Weight of inedible part (g/1 piece)": "0.007"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0006",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Musk melon, raw",
+      "mn": "Амтат гуа"
+    },
+    "scientific_name": "Cucumis melo",
+    "province": {
+      "en": "Khovd",
+      "mn": "Ховд"
+    },
+    "proximates": {
+      "Energy (kcal)": 111,
+      "Water (g)": 71.8,
+      "Protein (g)": 0.67,
+      "Fat (g)": 0.32,
+      "Ash (g)": 0.87,
+      "Carbohydrate (g)": 26.32
+    },
+    "minerals": {
+      "Calcium (mg)": 40,
+      "Iron (mg)": 1.99,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 365,
+      "Sodium (mg)": 13
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 15,
+      "Thiamin (mg)": 0.039,
+      "Riboflavin (mg)": 0.244,
+      "Vitamin C (mg)": 13.12,
+      "Refuse (%)": 21.1
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khovd province, Bulgan",
+        "mn": "Ховд аймаг, Булган сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1165",
+      "Weight of edible part (g/1 piece)": "919",
+      "Inedible part (discarded part)": {
+        "en": "outer peel, seeds",
+        "mn": "Гадна хальс, үр"
+      },
+      "Weight of inedible part (g/1 piece)": "246"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0003",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Peruvian groundcherry, raw",
+      "mn": "Газрын алим"
+    },
+    "scientific_name": "Physalis peruviana",
+    "province": {
+      "en": "Khovd",
+      "mn": "Ховд"
+    },
+    "proximates": {
+      "Energy (kcal)": 71,
+      "Water (g)": 82.8,
+      "Protein (g)": 1.17,
+      "Fat (g)": 0.89,
+      "Ash (g)": 0.62,
+      "Carbohydrate (g)": 14.48
+    },
+    "minerals": {
+      "Calcium (mg)": 8,
+      "Iron (mg)": 0.97,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 123,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 3,
+      "Thiamin (mg)": 0.084,
+      "Riboflavin (mg)": 0.059,
+      "Vitamin C (mg)": 8.21,
+      "Refuse (%)": 2.1
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khovd province, Bulgan",
+        "mn": "Ховд аймаг, Булган сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "",
+        "mn": ""
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "6.1",
+      "Weight of edible part (g/1 piece)": "5.97",
+      "Inedible part (discarded part)": {
+        "en": "outer peel",
+        "mn": "Гадна хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "0.13"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0001",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Sea buckthorn, frozen",
+      "mn": "Чацаргана жимс"
+    },
+    "scientific_name": "Hippophae rhamnoides",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 85,
+      "Water (g)": 81,
+      "Protein (g)": 2.05,
+      "Fat (g)": 2.06,
+      "Ash (g)": 0.25,
+      "Carbohydrate (g)": 14.64
+    },
+    "minerals": {
+      "Calcium (mg)": 92,
+      "Iron (mg)": 30.76,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 7,
+      "Sodium (mg)": 5
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 661,
+      "Thiamin (mg)": 0.027,
+      "Riboflavin (mg)": 0.047,
+      "Vitamin C (mg)": 24.55,
+      "Refuse (%)": 3.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.57",
+      "Weight of edible part (g/1 piece)": "0.55",
+      "Inedible part (discarded part)": {
+        "en": "stem, seed",
+        "mn": "Иш, үр"
+      },
+      "Weight of inedible part (g/1 piece)": "0.02"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0101",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Sea buckthorn, syrup",
+      "mn": "Чацарганы шүүс"
+    },
+    "scientific_name": "Hippophae rhamnoides",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 198,
+      "Water (g)": 50.5,
+      "Protein (g)": 0.65,
+      "Fat (g)": 0.45,
+      "Ash (g)": 0.53,
+      "Carbohydrate (g)": 47.85
+    },
+    "minerals": {
+      "Calcium (mg)": 58,
+      "Iron (mg)": 19.61,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 5,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 633,
+      "Thiamin (mg)": 0.018,
+      "Riboflavin (mg)": 0.03,
+      "Vitamin C (mg)": 13.2,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Seabuckthorn condenced jiuce",
+        "mn": "Бүтээгдэхүүний нэр: Чацарганы өтгөрүүлсэн шүүс"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "35",
+      "Weight of edible part (g/1 piece)": "35",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0004",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Siberian crabapple fruit, wild, raw",
+      "mn": "Үрэл"
+    },
+    "scientific_name": "Malus baccata ",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 179,
+      "Water (g)": 56.9,
+      "Protein (g)": 0.64,
+      "Fat (g)": 2.04,
+      "Ash (g)": 0.93,
+      "Carbohydrate (g)": 39.5
+    },
+    "minerals": {
+      "Calcium (mg)": 33,
+      "Iron (mg)": 1.09,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 357,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.072,
+      "Riboflavin (mg)": 0.045,
+      "Vitamin C (mg)": 22.43,
+      "Refuse (%)": 3.9
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Mandal",
+        "mn": "Сэлэнгэ аймаг, Мандал сум"
+      },
+      "Collection date": "04.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.51",
+      "Weight of edible part (g/1 piece)": "0.49",
+      "Inedible part (discarded part)": {
+        "en": "stem, seeds",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": "0.02"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0007",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Strawberry, farm, raw",
+      "mn": "Гүзээлзгэнэ, таримал"
+    },
+    "scientific_name": "Fragaria × ananassa",
+    "province": {
+      "en": "Tuv",
+      "mn": "Төв"
+    },
+    "proximates": {
+      "Energy (kcal)": 41,
+      "Water (g)": 90.9,
+      "Protein (g)": 0.7,
+      "Fat (g)": 1.15,
+      "Ash (g)": 0.43,
+      "Carbohydrate (g)": 6.84
+    },
+    "minerals": {
+      "Calcium (mg)": 43,
+      "Iron (mg)": 0.87,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 14,
+      "Sodium (mg)": 18
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 55,
+      "Thiamin (mg)": 0.272,
+      "Riboflavin (mg)": 0.405,
+      "Vitamin C (mg)": 53.68,
+      "Refuse (%)": 0.2
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Tuv province, Batsumber village, Rashaant 61",
+        "mn": "Төв аймаг, Батсүмбэр сум, Рашаант 61"
+      },
+      "Collection date": "16.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "18.85",
+      "Weight of edible part (g/1 piece)": "18.82",
+      "Inedible part (discarded part)": {
+        "en": "leaves",
+        "mn": "Навч"
+      },
+      "Weight of inedible part (g/1 piece)": "0.03"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0009",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Strawberry, wild, raw",
+      "mn": "Гүзээлзгэнэ, байгалийн"
+    },
+    "scientific_name": "Fragaria vesca",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 58,
+      "Water (g)": 85.9,
+      "Protein (g)": 0.74,
+      "Fat (g)": 0.87,
+      "Ash (g)": 0.7,
+      "Carbohydrate (g)": 11.83
+    },
+    "minerals": {
+      "Calcium (mg)": 39,
+      "Iron (mg)": 1.1,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 15,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.272,
+      "Riboflavin (mg)": 0.343,
+      "Vitamin C (mg)": 65.59,
+      "Refuse (%)": 0.4
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Khuder",
+        "mn": "Сэлэнгэ аймаг, Хүдэр сум"
+      },
+      "Collection date": "14.09.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "2.8",
+      "Weight of edible part (g/1 piece)": "2.79",
+      "Inedible part (discarded part)": {
+        "en": "leaves",
+        "mn": "Навч"
+      },
+      "Weight of inedible part (g/1 piece)": "0.01"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0005",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Watermelon, raw",
+      "mn": "Тарвас"
+    },
+    "scientific_name": "Citrullus lanatus",
+    "province": {
+      "en": "Khovd",
+      "mn": "Ховд"
+    },
+    "proximates": {
+      "Energy (kcal)": 49,
+      "Water (g)": 87.6,
+      "Protein (g)": 0.6,
+      "Fat (g)": 0.2,
+      "Ash (g)": 0.47,
+      "Carbohydrate (g)": 11.13
+    },
+    "minerals": {
+      "Calcium (mg)": 5,
+      "Iron (mg)": 0.22,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 67,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 30,
+      "Thiamin (mg)": 0.153,
+      "Riboflavin (mg)": 0.121,
+      "Vitamin C (mg)": 20.84,
+      "Refuse (%)": 21.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khovd province, Bulgan",
+        "mn": "Ховд аймаг, Булган сум"
+      },
+      "Collection date": "04.10.2022",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "3935",
+      "Weight of edible part (g/1 piece)": "3090",
+      "Inedible part (discarded part)": {
+        "en": "outer peel, seeds",
+        "mn": "Гадна хальс, үр"
+      },
+      "Weight of inedible part (g/1 piece)": "845"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0012",
+    "food_group": {
+      "en": "Fruits",
+      "mn": "Жимс, түүгээр хийсэн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Вird cherry, wild, frozen",
+      "mn": "Мойл"
+    },
+    "scientific_name": "Prunus cerasus",
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": 204,
+      "Water (g)": 51,
+      "Protein (g)": 1.23,
+      "Fat (g)": 2.29,
+      "Ash (g)": 0.99,
+      "Carbohydrate (g)": 44.51
+    },
+    "minerals": {
+      "Calcium (mg)": 9,
+      "Iron (mg)": 0.23,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 161,
+      "Sodium (mg)": 4
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0.209,
+      "Riboflavin (mg)": 0.221,
+      "Vitamin C (mg)": 29.02,
+      "Refuse (%)": 19.2
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khentii province, Binder",
+        "mn": "Хэнтий аймаг, Биндэр сум"
+      },
+      "Collection date": "10.09.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "0.73",
+      "Weight of edible part (g/1 piece)": "0.59",
+      "Inedible part (discarded part)": {
+        "en": "seeds",
+        "mn": "Үр"
+      },
+      "Weight of inedible part (g/1 piece)": "0.14"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "07_0001",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Beef, meat, boneless, raw",
+      "mn": "Үхрийн ясгүй мах, ферм, Сэлэнгэ "
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": 263,
+      "Water (g)": 54.3,
+      "Protein (g)": 19.86,
+      "Fat (g)": 17,
+      "Ash (g)": 1.08,
+      "Carbohydrate (g)": 7.76
+    },
+    "minerals": {
+      "Calcium (mg)": 6,
+      "Iron (mg)": 2.56,
+      "Phosphorus (mg)": 19,
+      "Potassium (mg)": 152,
+      "Sodium (mg)": 65
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.408,
+      "Riboflavin (mg)": 0.394,
+      "Vitamin C (mg)": 1.61,
+      "Refuse (%)": 1
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khentii province",
+        "mn": "Хэнтий аймаг"
+      },
+      "Collection date": "02.10.2022",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1045",
+      "Weight of edible part (g/1 piece)": "1040",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "10"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 3-12 months at nom  -18*C with relative humidity nk more than 90-95%",
+        "mn": "-18°C температурт, агаарын харьцангуй чийгшил 90–95% нөхцөлд 3–12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "07_0102",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Beef, meat, boneless, raw ",
+      "mn": "Үхрийн ясгүй мах, Хөвсгөл аймаг"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 134,
+      "Water (g)": 73,
+      "Protein (g)": 19.84,
+      "Fat (g)": 5.25,
+      "Ash (g)": 1.03,
+      "Carbohydrate (g)": 1.91
+    },
+    "minerals": {
+      "Calcium (mg)": 6,
+      "Iron (mg)": 3.27,
+      "Phosphorus (mg)": 17,
+      "Potassium (mg)": 134,
+      "Sodium (mg)": 173
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.349,
+      "Riboflavin (mg)": 0.427,
+      "Vitamin C (mg)": 2.56,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Tsagaan-Uul",
+        "mn": "Хөвсгөл аймаг, Цагаан-Уул сум"
+      },
+      "Collection date": "09.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "0"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "07_0004",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Goat, meat, boneless, raw",
+      "mn": "Ямааны ясгүй мах"
+    },
+    "scientific_name": "Capra aegagrus hircus",
+    "province": {
+      "en": "Dornogovi",
+      "mn": "Дорноговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 188,
+      "Water (g)": 69,
+      "Protein (g)": 16.12,
+      "Fat (g)": 13.77,
+      "Ash (g)": 1.11,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 21,
+      "Iron (mg)": 2.51,
+      "Phosphorus (mg)": 6,
+      "Potassium (mg)": 342,
+      "Sodium (mg)": 48
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.238,
+      "Riboflavin (mg)": 0.346,
+      "Vitamin C (mg)": 8.35,
+      "Refuse (%)": 20.6
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Dornogovi province",
+        "mn": "Дорноговь аймаг"
+      },
+      "Collection date": "15.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "2935",
+      "Weight of edible part (g/1 piece)": "2330",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "605"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 3-12 months at nom  -18*C with relative humidity nk more than 90-95%",
+        "mn": "-18°C температурт, агаарын харьцангуй чийгшил 90–95% нөхцөлд 3–12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "07_0003",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Horse, meat, boneless, raw",
+      "mn": "Адууны ясгүй мах"
+    },
+    "scientific_name": "Chevaline",
+    "province": {
+      "en": "Dornod",
+      "mn": "Дорнод"
+    },
+    "proximates": {
+      "Energy (kcal)": 282,
+      "Water (g)": 57.6,
+      "Protein (g)": 18.3,
+      "Fat (g)": 23.24,
+      "Ash (g)": 0.91,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 8,
+      "Iron (mg)": 7.8,
+      "Phosphorus (mg)": 18,
+      "Potassium (mg)": 130,
+      "Sodium (mg)": 50
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.372,
+      "Riboflavin (mg)": 0.357,
+      "Vitamin C (mg)": 2.31,
+      "Refuse (%)": 3
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Dornod province, Bayantumen",
+        "mn": "Дорнод аймаг, Баянтүмэн"
+      },
+      "Collection date": "09.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "995",
+      "Weight of edible part (g/1 piece)": "965",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "30"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 3-12 months at nom  -18*C with relative humidity nk more than 90-95%",
+        "mn": "-18°C температурт, агаарын харьцангуй чийгшил 90–95% нөхцөлд 3–12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "07_0104",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Reindeer, meat, boneless, raw, Taiga region",
+      "mn": "Цаа бугын ясгүй мах, тэжээвэр"
+    },
+    "scientific_name": "Rangifer tarandus",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 223,
+      "Water (g)": 60.2,
+      "Protein (g)": 24.76,
+      "Fat (g)": 13.78,
+      "Ash (g)": 1.24,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 7,
+      "Iron (mg)": 0.06,
+      "Phosphorus (mg)": 50,
+      "Potassium (mg)": 307,
+      "Sodium (mg)": 78
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.284,
+      "Riboflavin (mg)": 0.465,
+      "Vitamin C (mg)": 4.12,
+      "Refuse (%)": 13.7
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Tsagaan nuur",
+        "mn": "Хөвсгөл аймаг, Цагааннуур сум"
+      },
+      "Collection date": "20.01.2024",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "4500",
+      "Weight of edible part (g/1 piece)": "3885",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "615"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "07_0002",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Sheep, meat, boneless, raw (Dundgovi)",
+      "mn": "Хонины ясгүй мах, Дундговь аймаг"
+    },
+    "scientific_name": "Ovis aries",
+    "province": {
+      "en": "Dundgovi",
+      "mn": "Дундговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 235,
+      "Water (g)": 62.5,
+      "Protein (g)": 18.8,
+      "Fat (g)": 17.75,
+      "Ash (g)": 0.95,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 23,
+      "Iron (mg)": 4.46,
+      "Phosphorus (mg)": 7,
+      "Potassium (mg)": 359,
+      "Sodium (mg)": 105
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.214,
+      "Riboflavin (mg)": 0.377,
+      "Vitamin C (mg)": 25.9,
+      "Refuse (%)": 15.7
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Dundgovi province",
+        "mn": "Дундговь аймаг"
+      },
+      "Collection date": "15.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "3150",
+      "Weight of edible part (g/1 piece)": "2625",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "525"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 3-12 months at nom  -18*C with relative humidity nk more than 90-95%",
+        "mn": "-18°C температурт, агаарын харьцангуй чийгшил 90–95% нөхцөлд 3–12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "07_0103",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Sheep, meat, boneless, raw (Selenge)",
+      "mn": "Хонины ясгүй мах, Сэлэнгэ аймаг"
+    },
+    "scientific_name": "Ovis aries",
+    "province": {
+      "en": "Selenge",
+      "mn": "Сэлэнгэ"
+    },
+    "proximates": {
+      "Energy (kcal)": 240,
+      "Water (g)": 64.4,
+      "Protein (g)": 14.57,
+      "Fat (g)": 20.22,
+      "Ash (g)": 0.82,
+      "Carbohydrate (g)": 0.01
+    },
+    "minerals": {
+      "Calcium (mg)": 7,
+      "Iron (mg)": 2.16,
+      "Phosphorus (mg)": 18,
+      "Potassium (mg)": 286,
+      "Sodium (mg)": 80
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.214,
+      "Riboflavin (mg)": 0.147,
+      "Vitamin C (mg)": 1.08,
+      "Refuse (%)": 16.7
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Selenge province, Gatsuurt LLC",
+        "mn": "Сэлэнгэ аймаг, Гацуурт ХХК"
+      },
+      "Collection date": "09.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "3380",
+      "Weight of edible part (g/1 piece)": "2850",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "530"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "07_0101",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Yak, Borts (dried meat)",
+      "mn": "Сарлагийн борц"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Arkhangai",
+      "mn": "Архангай"
+    },
+    "proximates": {
+      "Energy (kcal)": 503,
+      "Water (g)": 8.2,
+      "Protein (g)": 61.15,
+      "Fat (g)": 28.75,
+      "Ash (g)": 1.94,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 13,
+      "Iron (mg)": 4.41,
+      "Phosphorus (mg)": 54,
+      "Potassium (mg)": 8,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.095,
+      "Riboflavin (mg)": 0.169,
+      "Vitamin C (mg)": 16.42,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Arkhangai province, Bulgan",
+        "mn": "Архангай аймаг, Булган сум"
+      },
+      "Collection date": "15.10.2023",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "75",
+      "Weight of edible part (g/1 piece)": "75",
+      "Inedible part (discarded part)": {
+        "en": "*",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": "*"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "07_0006",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Yak, meat, boneless, raw",
+      "mn": "Сарлагийн ясгүй мах"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Arkhangai",
+      "mn": "Архангай"
+    },
+    "proximates": {
+      "Energy (kcal)": 235,
+      "Water (g)": 59.6,
+      "Protein (g)": 22.84,
+      "Fat (g)": 15.55,
+      "Ash (g)": 0.96,
+      "Carbohydrate (g)": 1.02
+    },
+    "minerals": {
+      "Calcium (mg)": 5,
+      "Iron (mg)": 2.71,
+      "Phosphorus (mg)": 18,
+      "Potassium (mg)": 158,
+      "Sodium (mg)": 65
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.297,
+      "Riboflavin (mg)": 0.441,
+      "Vitamin C (mg)": 2.23,
+      "Refuse (%)": 5.2
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Arkhangai province, Bulgan",
+        "mn": "Архангай аймаг, Булган сум"
+      },
+      "Collection date": "09.03.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "960",
+      "Weight of edible part (g/1 piece)": "910",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "50"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 3-12 months at nom  -18*C with relative humidity nk more than 90-95%",
+        "mn": "-18°C температурт, агаарын харьцангуй чийгшил 90–95% нөхцөлд 3–12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "07_0005",
+    "food_group": {
+      "en": "Meat and Meat products",
+      "mn": "Мах, махан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Сamel, meat, boneless, raw",
+      "mn": "Тэмээний ясгүй мах"
+    },
+    "scientific_name": "Camelus bactrianus",
+    "province": {
+      "en": "Umnugovi",
+      "mn": "Өмнөговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 250,
+      "Water (g)": 60.1,
+      "Protein (g)": 20.31,
+      "Fat (g)": 18.7,
+      "Ash (g)": 0.85,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 14,
+      "Iron (mg)": 4.31,
+      "Phosphorus (mg)": 16,
+      "Potassium (mg)": 367,
+      "Sodium (mg)": 0
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.394,
+      "Riboflavin (mg)": 0.392,
+      "Vitamin C (mg)": 7.4,
+      "Refuse (%)": 4.2
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Umnugovi province",
+        "mn": "Өмнөговь аймаг"
+      },
+      "Collection date": "03.11.2022",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "840",
+      "Weight of edible part (g/1 piece)": "800",
+      "Inedible part (discarded part)": {
+        "en": "bones, visible firm and some soft connective tissues",
+        "mn": "Яс, харагдах хатуу болон зөөлөн холбогч эд"
+      },
+      "Weight of inedible part (g/1 piece)": "35"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "Store for 3-12 months at nom  -18*C with relative humidity nk more than 90-95%",
+        "mn": "-18°C температурт, агаарын харьцангуй чийгшил 90–95% нөхцөлд 3–12 сар хадгална."
+      }
+    }
+  },
+  {
+    "food_code": "08_0001",
+    "food_group": {
+      "en": "Eggs",
+      "mn": "Өндөг"
+    },
+    "food_name": {
+      "en": "Egg, chichen, whole, raw",
+      "mn": "Тахианы өндөг"
+    },
+    "scientific_name": "Gallus gallus domesticus",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 159,
+      "Water (g)": 73.6,
+      "Protein (g)": 13.5,
+      "Fat (g)": 11.62,
+      "Ash (g)": 1.28,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 46,
+      "Iron (mg)": 1.86,
+      "Phosphorus (mg)": 49,
+      "Potassium (mg)": 136,
+      "Sodium (mg)": 134
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.209,
+      "Riboflavin (mg)": 0.144,
+      "Vitamin C (mg)": 2.17,
+      "Refuse (%)": 13.5
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Tumen shuvuut LC",
+        "mn": "Улаанбаатар хот, Түмэн шувуут ХК"
+      },
+      "Collection date": "11.05.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Tumen shuvuut,  Egg",
+        "mn": "Бүтээгдэхүүний нэр: Түмэн шувуут, Өндөг"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "57.9",
+      "Weight of edible part (g/1 piece)": "50.1",
+      "Inedible part (discarded part)": {
+        "en": "outer shell",
+        "mn": "Гадна хальс"
+      },
+      "Weight of inedible part (g/1 piece)": "7.8"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "boiling, fry in oil",
+        "mn": "Чанах, тосонд шарна."
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "09_0101",
+    "food_group": {
+      "en": "Fish and Fish products",
+      "mn": "Загас, загасан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Humpback whitefish, canned, boiled",
+      "mn": "Лаазалсан загас"
+    },
+    "scientific_name": "Coregonus pidschian",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 197,
+      "Water (g)": 65.6,
+      "Protein (g)": 18.68,
+      "Fat (g)": 13.56,
+      "Ash (g)": 2.02,
+      "Carbohydrate (g)": 0.13
+    },
+    "minerals": {
+      "Calcium (mg)": 28,
+      "Iron (mg)": 0.61,
+      "Phosphorus (mg)": 16,
+      "Potassium (mg)": 0,
+      "Sodium (mg)": 158
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 5.76,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Duuren, canned fish",
+        "mn": "Бүтээгдэхүүний нэр: Дүүрэн, лаазалсан загас"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "500",
+      "Weight of edible part (g/1 piece)": "500",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "09_0001",
+    "food_group": {
+      "en": "Fish and Fish products",
+      "mn": "Загас, загасан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Humpback whitefish, frozen",
+      "mn": "Цагаан загас, хөлдөөсөн"
+    },
+    "scientific_name": "Coregonus pidschian",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 142,
+      "Water (g)": 65.2,
+      "Protein (g)": 17.31,
+      "Fat (g)": 1.35,
+      "Ash (g)": 1.03,
+      "Carbohydrate (g)": 15.06
+    },
+    "minerals": {
+      "Calcium (mg)": 29,
+      "Iron (mg)": 1.19,
+      "Phosphorus (mg)": 6,
+      "Potassium (mg)": 211,
+      "Sodium (mg)": 30
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.186,
+      "Riboflavin (mg)": 0.135,
+      "Vitamin C (mg)": 5.29,
+      "Refuse (%)": 15.4
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province",
+        "mn": "Хөвсгөл аймаг"
+      },
+      "Collection date": "03.10.2022",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1465",
+      "Weight of edible part (g/1 piece)": "1240",
+      "Inedible part (discarded part)": {
+        "en": "Head, skin and tail, fins",
+        "mn": "Толгой, арьс, сүүл, сэрвээ"
+      },
+      "Weight of inedible part (g/1 piece)": "225"
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0105",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Cheese, Yak",
+      "mn": "Бяслаг"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 228,
+      "Water (g)": 52,
+      "Protein (g)": 37.79,
+      "Fat (g)": 8.53,
+      "Ash (g)": 1.56,
+      "Carbohydrate (g)": 0.11
+    },
+    "minerals": {
+      "Calcium (mg)": 76,
+      "Iron (mg)": 0.1,
+      "Phosphorus (mg)": 45,
+      "Potassium (mg)": 87,
+      "Sodium (mg)": 41
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.213,
+      "Riboflavin (mg)": 0.467,
+      "Vitamin C (mg)": 5.44,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Ulaan-Uul",
+        "mn": "Хөвсгөл аймаг, Улаан-Уул сум"
+      },
+      "Collection date": "20.01.2024",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1660",
+      "Weight of edible part (g/1 piece)": "1660",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0118",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Cream, clotted, Yak, boiled",
+      "mn": "Өрөм, сарлагийн сүү"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Arkhangai",
+      "mn": "Архангай"
+    },
+    "proximates": {
+      "Energy (kcal)": 585,
+      "Water (g)": 32.1,
+      "Protein (g)": 4.2,
+      "Fat (g)": 63.08,
+      "Ash (g)": 0.49,
+      "Carbohydrate (g)": 0.1
+    },
+    "minerals": {
+      "Calcium (mg)": 52,
+      "Iron (mg)": 0.1,
+      "Phosphorus (mg)": 13,
+      "Potassium (mg)": 1,
+      "Sodium (mg)": 20
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 5.49,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0116",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Cream, milk",
+      "mn": "Цөцгий"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": 413,
+      "Water (g)": 46.1,
+      "Protein (g)": 2.15,
+      "Fat (g)": 39.84,
+      "Ash (g)": 0.46,
+      "Carbohydrate (g)": 11.41
+    },
+    "minerals": {
+      "Calcium (mg)": 85,
+      "Iron (mg)": 0.03,
+      "Phosphorus (mg)": 10,
+      "Potassium (mg)": 113,
+      "Sodium (mg)": 32
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 1.36,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0113",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Curd, Camel, dry ",
+      "mn": "Ааруул, ингэний сүү"
+    },
+    "scientific_name": "Camelus bactrianus",
+    "province": {
+      "en": "Umnugovi",
+      "mn": "Өмнөговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 490,
+      "Water (g)": 29.5,
+      "Protein (g)": 4.77,
+      "Fat (g)": 42.65,
+      "Ash (g)": 1.3,
+      "Carbohydrate (g)": 21.79
+    },
+    "minerals": {
+      "Calcium (mg)": 161,
+      "Iron (mg)": 0.2,
+      "Phosphorus (mg)": 23,
+      "Potassium (mg)": 111,
+      "Sodium (mg)": 51
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.038,
+      "Riboflavin (mg)": 0.026,
+      "Vitamin C (mg)": 4.63,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Umnugovi province, Mandalgovi",
+        "mn": "Өмнөговь аймаг, Мандалговь сум"
+      },
+      "Collection date": "15.10.2023",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "56.9",
+      "Weight of edible part (g/1 piece)": "56.9",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0104",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Curd, dry  ",
+      "mn": "Ааруул, үнээний сүү"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": 337,
+      "Water (g)": 22.7,
+      "Protein (g)": 21.55,
+      "Fat (g)": 8,
+      "Ash (g)": 3.19,
+      "Carbohydrate (g)": 44.57
+    },
+    "minerals": {
+      "Calcium (mg)": 161,
+      "Iron (mg)": 0.19,
+      "Phosphorus (mg)": 43,
+      "Potassium (mg)": 109,
+      "Sodium (mg)": 51
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.018,
+      "Riboflavin (mg)": 0.033,
+      "Vitamin C (mg)": 46.43,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khentii province, Binder",
+        "mn": "Хэнтий аймаг, Биндэр сум"
+      },
+      "Collection date": "10.09.2023",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "7.37",
+      "Weight of edible part (g/1 piece)": "7.37",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0103",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Curd, fresh ",
+      "mn": "Аарц"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": 142,
+      "Water (g)": 72.2,
+      "Protein (g)": 15.08,
+      "Fat (g)": 8.8,
+      "Ash (g)": 3.18,
+      "Carbohydrate (g)": 0.71
+    },
+    "minerals": {
+      "Calcium (mg)": 81,
+      "Iron (mg)": 0.1,
+      "Phosphorus (mg)": 17,
+      "Potassium (mg)": 96,
+      "Sodium (mg)": 41
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.086,
+      "Riboflavin (mg)": 0.023,
+      "Vitamin C (mg)": 2.82,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0114",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Curd, Reindeer, dry",
+      "mn": "Ааруул, цааны сүү"
+    },
+    "scientific_name": "Rangifer tarandus",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 634,
+      "Water (g)": 8.9,
+      "Protein (g)": 29.52,
+      "Fat (g)": 55.98,
+      "Ash (g)": 2.73,
+      "Carbohydrate (g)": 2.9
+    },
+    "minerals": {
+      "Calcium (mg)": 167,
+      "Iron (mg)": 0.19,
+      "Phosphorus (mg)": 5,
+      "Potassium (mg)": 185,
+      "Sodium (mg)": 48
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.025,
+      "Riboflavin (mg)": 0.046,
+      "Vitamin C (mg)": 5.59,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Tsagaan nuur",
+        "mn": "Хөвсгөл аймаг, Цагааннуур сум"
+      },
+      "Collection date": "20.01.2024",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "181",
+      "Weight of edible part (g/1 piece)": "181",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0112",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Curd, Yak, sweet, dry",
+      "mn": "Ааруул, сүү хурууд, сарлагийн сүү"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Arkhangai",
+      "mn": "Архангай"
+    },
+    "proximates": {
+      "Energy (kcal)": 318,
+      "Water (g)": 26.6,
+      "Protein (g)": 58.44,
+      "Fat (g)": 5.56,
+      "Ash (g)": 0.89,
+      "Carbohydrate (g)": 8.54
+    },
+    "minerals": {
+      "Calcium (mg)": 167,
+      "Iron (mg)": 0.19,
+      "Phosphorus (mg)": 13,
+      "Potassium (mg)": 111,
+      "Sodium (mg)": 78
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.013,
+      "Riboflavin (mg)": 0.023,
+      "Vitamin C (mg)": 15.46,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Arkhangai province",
+        "mn": "Архангай аймаг"
+      },
+      "Collection date": "17.08.2023",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "158",
+      "Weight of edible part (g/1 piece)": "158",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0115",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Kumis (milk), mare (Dundgovi)",
+      "mn": "Айраг, Дундговь"
+    },
+    "scientific_name": "Chevaline",
+    "province": {
+      "en": "Dundgovi",
+      "mn": "Дундговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 29,
+      "Water (g)": 94.5,
+      "Protein (g)": 3.36,
+      "Fat (g)": 1.64,
+      "Ash (g)": 0.34,
+      "Carbohydrate (g)": 0.14
+    },
+    "minerals": {
+      "Calcium (mg)": 140,
+      "Iron (mg)": 0.18,
+      "Phosphorus (mg)": 6,
+      "Potassium (mg)": 0,
+      "Sodium (mg)": 35
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.123,
+      "Riboflavin (mg)": 0.118,
+      "Vitamin C (mg)": 5.73,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0109",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Kumis (milk), mare (Bulgan)",
+      "mn": "Айраг, Булган"
+    },
+    "scientific_name": "Chevaline",
+    "province": {
+      "en": "Bulgan",
+      "mn": "Булган"
+    },
+    "proximates": {
+      "Energy (kcal)": 26,
+      "Water (g)": 95.2,
+      "Protein (g)": 2.64,
+      "Fat (g)": 1.54,
+      "Ash (g)": 0.24,
+      "Carbohydrate (g)": 0.35
+    },
+    "minerals": {
+      "Calcium (mg)": 136,
+      "Iron (mg)": 0.16,
+      "Phosphorus (mg)": 19,
+      "Potassium (mg)": 0,
+      "Sodium (mg)": 34
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.391,
+      "Riboflavin (mg)": 0.358,
+      "Vitamin C (mg)": 10.71,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0001",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk",
+      "mn": "Үнээний сүү"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 56,
+      "Water (g)": 90.4,
+      "Protein (g)": 3.69,
+      "Fat (g)": 3.98,
+      "Ash (g)": 0.59,
+      "Carbohydrate (g)": 1.31
+    },
+    "minerals": {
+      "Calcium (mg)": 119,
+      "Iron (mg)": 0.84,
+      "Phosphorus (mg)": 25,
+      "Potassium (mg)": 159,
+      "Sodium (mg)": 50
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.156,
+      "Riboflavin (mg)": 0.173,
+      "Vitamin C (mg)": 3.53,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0003",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, Camel",
+      "mn": "Ингэний сүү"
+    },
+    "scientific_name": "Camelus bactrianus",
+    "province": {
+      "en": "Umnugovi",
+      "mn": "Өмнөговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 71,
+      "Water (g)": 87.6,
+      "Protein (g)": 3.86,
+      "Fat (g)": 4.99,
+      "Ash (g)": 0.84,
+      "Carbohydrate (g)": 2.69
+    },
+    "minerals": {
+      "Calcium (mg)": 182,
+      "Iron (mg)": 0.22,
+      "Phosphorus (mg)": 13,
+      "Potassium (mg)": 137,
+      "Sodium (mg)": 70
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.355,
+      "Riboflavin (mg)": 0.335,
+      "Vitamin C (mg)": 3.43,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0110",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, Camel, fermented",
+      "mn": "Ингэний хоормог"
+    },
+    "scientific_name": "Camelus bactrianus",
+    "province": {
+      "en": "Umnugovi",
+      "mn": "Өмнөговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 69,
+      "Water (g)": 89.1,
+      "Protein (g)": 3.75,
+      "Fat (g)": 5.54,
+      "Ash (g)": 0.66,
+      "Carbohydrate (g)": 0.92
+    },
+    "minerals": {
+      "Calcium (mg)": 151,
+      "Iron (mg)": 0.16,
+      "Phosphorus (mg)": 50,
+      "Potassium (mg)": 171,
+      "Sodium (mg)": 71
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.154,
+      "Riboflavin (mg)": 0.142,
+      "Vitamin C (mg)": 2.65,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "330",
+      "Weight of edible part (g/1 piece)": "330",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0002",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, Goat",
+      "mn": "Ямааны сүү"
+    },
+    "scientific_name": "Capra hircus",
+    "province": {
+      "en": "Dundgovi",
+      "mn": "Дундговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 77,
+      "Water (g)": 85.2,
+      "Protein (g)": 5.64,
+      "Fat (g)": 4.46,
+      "Ash (g)": 1.1,
+      "Carbohydrate (g)": 3.62
+    },
+    "minerals": {
+      "Calcium (mg)": 144,
+      "Iron (mg)": 0.3,
+      "Phosphorus (mg)": 66,
+      "Potassium (mg)": 146,
+      "Sodium (mg)": 47
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.091,
+      "Riboflavin (mg)": 0.625,
+      "Vitamin C (mg)": 2.75,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Dundgovi province, Delgertsogt",
+        "mn": "Дундговь аймаг, Дэлгэрцогт сум"
+      },
+      "Collection date": "13.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0111",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, mare (Dundgovi)",
+      "mn": "Гүүний сүү, Дундговь"
+    },
+    "scientific_name": "Equus caballus",
+    "province": {
+      "en": "Dundgovi",
+      "mn": "Дундговь"
+    },
+    "proximates": {
+      "Energy (kcal)": 50,
+      "Water (g)": 89.2,
+      "Protein (g)": 1.56,
+      "Fat (g)": 1.55,
+      "Ash (g)": 0.23,
+      "Carbohydrate (g)": 7.49
+    },
+    "minerals": {
+      "Calcium (mg)": 111,
+      "Iron (mg)": 0.12,
+      "Phosphorus (mg)": 15,
+      "Potassium (mg)": 21,
+      "Sodium (mg)": 33
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.963,
+      "Riboflavin (mg)": 0.383,
+      "Vitamin C (mg)": 5.2,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Dundgovi province, Delgertsogt",
+        "mn": "Дундговь аймаг, Дэлгэрцогт сум"
+      },
+      "Collection date": "13.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0004",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, mare (Bulgan)",
+      "mn": "Гүүний сүү, Булган"
+    },
+    "scientific_name": "Equus caballus",
+    "province": {
+      "en": "Bulgan",
+      "mn": "Булган"
+    },
+    "proximates": {
+      "Energy (kcal)": 51,
+      "Water (g)": 89.1,
+      "Protein (g)": 2.34,
+      "Fat (g)": 1.83,
+      "Ash (g)": 0.28,
+      "Carbohydrate (g)": 6.4
+    },
+    "minerals": {
+      "Calcium (mg)": 104,
+      "Iron (mg)": 0.11,
+      "Phosphorus (mg)": 15,
+      "Potassium (mg)": 18,
+      "Sodium (mg)": 30
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.391,
+      "Riboflavin (mg)": 0.659,
+      "Vitamin C (mg)": 6.21,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0117",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, Reindeer, raw",
+      "mn": "Цаа бугын сүү"
+    },
+    "scientific_name": "Rangifer tarandus",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 337,
+      "Water (g)": 40,
+      "Protein (g)": 12.16,
+      "Fat (g)": 20.55,
+      "Ash (g)": 1.52,
+      "Carbohydrate (g)": 25.75
+    },
+    "minerals": {
+      "Calcium (mg)": 275,
+      "Iron (mg)": 0.19,
+      "Phosphorus (mg)": 29,
+      "Potassium (mg)": 302,
+      "Sodium (mg)": 50
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.456,
+      "Riboflavin (mg)": 0.528,
+      "Vitamin C (mg)": 4.92,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Tsagaan nuur",
+        "mn": "Хөвсгөл аймаг, Цагааннуур сум"
+      },
+      "Collection date": "20.01.2024",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0101",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, UHT",
+      "mn": "Халааж ариутгасан сүү"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 61,
+      "Water (g)": 88.4,
+      "Protein (g)": 3.29,
+      "Fat (g)": 3.59,
+      "Ash (g)": 0.69,
+      "Carbohydrate (g)": 3.99
+    },
+    "minerals": {
+      "Calcium (mg)": 122,
+      "Iron (mg)": 0.16,
+      "Phosphorus (mg)": 36,
+      "Potassium (mg)": 146,
+      "Sodium (mg)": 51
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.058,
+      "Riboflavin (mg)": 0.038,
+      "Vitamin C (mg)": 1.19,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Suu LC",
+        "mn": "Улаанбаатар хот, Сүү ХК"
+      },
+      "Collection date": "17.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0006",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Milk, Yak",
+      "mn": "Сарлагийн сүү"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 103,
+      "Water (g)": 81.9,
+      "Protein (g)": 4.21,
+      "Fat (g)": 6.57,
+      "Ash (g)": 0.67,
+      "Carbohydrate (g)": 6.67
+    },
+    "minerals": {
+      "Calcium (mg)": 117,
+      "Iron (mg)": 0.11,
+      "Phosphorus (mg)": 13,
+      "Potassium (mg)": 105,
+      "Sodium (mg)": 18
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.318,
+      "Riboflavin (mg)": 0.276,
+      "Vitamin C (mg)": 1.44,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Renchinlkhumbe",
+        "mn": "Хөвсгөл аймаг, Рэнчинлхүмбэ сум"
+      },
+      "Collection date": "20.01.2024",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0102",
+    "food_group": {
+      "en": "Milk and Milk products",
+      "mn": "Сүү, сүүн бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Yoghurt",
+      "mn": "Элгэн тараг"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 54,
+      "Water (g)": 88.8,
+      "Protein (g)": 2.83,
+      "Fat (g)": 2.4,
+      "Ash (g)": 0.66,
+      "Carbohydrate (g)": 5.28
+    },
+    "minerals": {
+      "Calcium (mg)": 119,
+      "Iron (mg)": 0.14,
+      "Phosphorus (mg)": 3,
+      "Potassium (mg)": 143,
+      "Sodium (mg)": 51
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.091,
+      "Riboflavin (mg)": 0.113,
+      "Vitamin C (mg)": 13.59,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Suu LC",
+        "mn": "Улаанбаатар хот, Сүү ХК"
+      },
+      "Collection date": "18.10.2023",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "750",
+      "Weight of edible part (g/1 piece)": "750",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0107",
+    "food_group": {
+      "en": "Oils and Fats",
+      "mn": "Өөх, тос"
+    },
+    "food_name": {
+      "en": "Butter, 88% fat",
+      "mn": "Цөцгийн тос"
+    },
+    "scientific_name": "Bos taurus",
+    "province": {
+      "en": "Khentii",
+      "mn": "Хэнтий"
+    },
+    "proximates": {
+      "Energy (kcal)": 805,
+      "Water (g)": 9.3,
+      "Protein (g)": 1.87,
+      "Fat (g)": 88.66,
+      "Ash (g)": 0.17,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 10,
+      "Iron (mg)": 0.16,
+      "Phosphorus (mg)": 8,
+      "Potassium (mg)": 14,
+      "Sodium (mg)": 16
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 3.46,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "10_0108",
+    "food_group": {
+      "en": "Oils and Fats",
+      "mn": "Өөх, тос"
+    },
+    "food_name": {
+      "en": "Ghee (butter), Yak",
+      "mn": "Сарлагийн шар тос"
+    },
+    "scientific_name": "Bos grunniens",
+    "province": {
+      "en": "Khuvsgul",
+      "mn": "Хөвсгөл"
+    },
+    "proximates": {
+      "Energy (kcal)": 896,
+      "Water (g)": 0.4,
+      "Protein (g)": 0,
+      "Fat (g)": 99.58,
+      "Ash (g)": 0.02,
+      "Carbohydrate (g)": 0
+    },
+    "minerals": {
+      "Calcium (mg)": 6,
+      "Iron (mg)": 0.03,
+      "Phosphorus (mg)": 15,
+      "Potassium (mg)": 0,
+      "Sodium (mg)": 0
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 1.32,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Khuvsgul province, Tsagaan-Uul",
+        "mn": "Хөвсгөл аймаг, Цагаан-Уул сум"
+      },
+      "Collection date": "20.01.2024",
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "450",
+      "Weight of edible part (g/1 piece)": "450",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "06_0102",
+    "food_group": {
+      "en": "Oils and Fats",
+      "mn": "Өөх, тос"
+    },
+    "food_name": {
+      "en": "Pine nut oil",
+      "mn": "Хуш модны самрын тос"
+    },
+    "scientific_name": "Pinus sibirica",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 836,
+      "Water (g)": 1.7,
+      "Protein (g)": 0.74,
+      "Fat (g)": 90.6,
+      "Ash (g)": 2.56,
+      "Carbohydrate (g)": 4.44
+    },
+    "minerals": {
+      "Calcium (mg)": 15,
+      "Iron (mg)": 3.42,
+      "Phosphorus (mg)": 4,
+      "Potassium (mg)": 1,
+      "Sodium (mg)": 1
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 0,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city, Nord Road LLC",
+        "mn": "Улаанбаатар хот, Норд Роуд ХХК"
+      },
+      "Collection date": "24.12.2021",
+      "Basis of sample selection": {
+        "en": "Exported food",
+        "mn": "Экспортын хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "100",
+      "Weight of edible part (g/1 piece)": "100",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0103",
+    "food_group": {
+      "en": "Oils and Fats",
+      "mn": "Өөх, тос"
+    },
+    "food_name": {
+      "en": "Sea buckthorn oil",
+      "mn": "Чацарганы тос, зөөлөн эдийн"
+    },
+    "scientific_name": "Hippophae rhamnoides",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 844,
+      "Water (g)": 1.7,
+      "Protein (g)": 0.22,
+      "Fat (g)": 90.37,
+      "Ash (g)": 0.12,
+      "Carbohydrate (g)": 7.56
+    },
+    "minerals": {
+      "Calcium (mg)": 12,
+      "Iron (mg)": 2.59,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 0,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 0,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Exported food",
+        "mn": "Экспортын хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Seabuckthorn pulp oil",
+        "mn": "Бүтээгдэхүүний нэр: Чацарганы зөөлөн эдийн тос"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "100",
+      "Weight of edible part (g/1 piece)": "100",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "05_0102",
+    "food_group": {
+      "en": "Oils and Fats",
+      "mn": "Өөх, тос"
+    },
+    "food_name": {
+      "en": "Sea buckthorn seed oil",
+      "mn": "Чацарганы тос, үрийн"
+    },
+    "scientific_name": "Hippophae rhamnoides",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 679,
+      "Water (g)": 2.3,
+      "Protein (g)": 0.54,
+      "Fat (g)": 57.7,
+      "Ash (g)": 0.19,
+      "Carbohydrate (g)": 39.32
+    },
+    "minerals": {
+      "Calcium (mg)": 13,
+      "Iron (mg)": 4.95,
+      "Phosphorus (mg)": 0,
+      "Potassium (mg)": 1,
+      "Sodium (mg)": 3
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 0,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 0,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Exported food",
+        "mn": "Экспортын хүнс"
+      },
+      "Additional collection information": {
+        "en": "Product name: Seabuckthorn seed oil",
+        "mn": "Бүтээгдэхүүний нэр: Чацарганы үрийн тос"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "100",
+      "Weight of edible part (g/1 piece)": "100",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "11_0001",
+    "food_group": {
+      "en": "Seasonings",
+      "mn": "Амтлагч"
+    },
+    "food_name": {
+      "en": "Cumin powder",
+      "mn": "Гоньд"
+    },
+    "scientific_name": "Cuminum cyminum ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 379,
+      "Water (g)": 8.6,
+      "Protein (g)": 1.81,
+      "Fat (g)": 5.29,
+      "Ash (g)": 3.21,
+      "Carbohydrate (g)": 81.12
+    },
+    "minerals": {
+      "Calcium (mg)": 213,
+      "Iron (mg)": 1.23,
+      "Phosphorus (mg)": 104,
+      "Potassium (mg)": 326,
+      "Sodium (mg)": 125
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.048,
+      "Riboflavin (mg)": 0.048,
+      "Vitamin C (mg)": 73.28,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "11_0002",
+    "food_group": {
+      "en": "Seasonings",
+      "mn": "Амтлагч"
+    },
+    "food_name": {
+      "en": "Pepper, chili, Jalapeno, raw",
+      "mn": "Халапено"
+    },
+    "scientific_name": "Capsicum annuum",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 80,
+      "Water (g)": 80.4,
+      "Protein (g)": 1.32,
+      "Fat (g)": 0.69,
+      "Ash (g)": 0.51,
+      "Carbohydrate (g)": 17.09
+    },
+    "minerals": {
+      "Calcium (mg)": 6,
+      "Iron (mg)": 0.35,
+      "Phosphorus (mg)": 38,
+      "Potassium (mg)": 139,
+      "Sodium (mg)": 3
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0.303,
+      "Riboflavin (mg)": 0.211,
+      "Vitamin C (mg)": 65.37,
+      "Refuse (%)": null
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "",
+        "mn": ""
+      },
+      "Collection date": null,
+      "Basis of sample selection": {
+        "en": "Commonly consumed food",
+        "mn": "Түгээмэл хэрэглэдэг хүнс"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": null,
+      "Weight of edible part (g/1 piece)": null,
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  },
+  {
+    "food_code": "01_0115",
+    "food_group": {
+      "en": "Prepared foods",
+      "mn": "Боловсруулж бэлтгэсэн хүнс буюу бусад"
+    },
+    "food_name": {
+      "en": "Biscuit, Kheviin boov, fried",
+      "mn": "Хэвийн боов"
+    },
+    "scientific_name": "Triticum aestivum  ",
+    "province": {
+      "en": "Ulaanbaatar",
+      "mn": "Улаанбаатар"
+    },
+    "proximates": {
+      "Energy (kcal)": 456,
+      "Water (g)": 9.9,
+      "Protein (g)": 7.73,
+      "Fat (g)": 20.71,
+      "Ash (g)": 1.92,
+      "Carbohydrate (g)": 59.8
+    },
+    "minerals": {
+      "Calcium (mg)": 19,
+      "Iron (mg)": 1,
+      "Phosphorus (mg)": 12,
+      "Potassium (mg)": 0,
+      "Sodium (mg)": 176
+    },
+    "vitamins": {
+      "Vitamin A (μg)": null,
+      "Thiamin (mg)": 0,
+      "Riboflavin (mg)": 0,
+      "Vitamin C (mg)": 46.33,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Ulaanbaatar city",
+        "mn": "Улаанбаатар хот"
+      },
+      "Collection date": "2024.02.20",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "",
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "650",
+      "Weight of edible part (g/1 piece)": "650",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  }
+]
