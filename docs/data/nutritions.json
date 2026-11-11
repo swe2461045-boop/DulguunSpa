@@ -1,0 +1,78 @@
+[
+  {
+    "food_code": "01_0106",
+    "food_group": {
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
+    },
+    "food_name": {
+      "en": "Barley flour, whole grain",
+      "mn": "Арвайн эслэгт гурил"
+    },
+    "scientific_name": "Hordeum vulgare",
+    "province": {
+      "en": "Uvs",
+      "mn": "Увс"
+    },
+    "proximates": {
+      "Energy (kcal)": 358,
+      "Water (g)": 9.7,
+      "Protein (g)": 12.05,
+      "Fat (g)": 0.55,
+      "Ash (g)": 1.59,
+      "Carbohydrate (g)": 76.13
+    },
+    "minerals": {
+      "Calcium (mg)": 100,
+      "Iron (mg)": 18.7,
+      "Phosphorus (mg)": 24,
+      "Potassium (mg)": 7,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 1,
+      "Thiamin (mg)": 0.28,
+      "Riboflavin (mg)": 0.11,
+      "Vitamin C (mg)": 22.95,
+      "Refuse (%)": 0.0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХХК"
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
+      },
+      "Additional collection information": {
+        "en": "Product name: Fiber barley  flour",
+        "mn": "Бүтээгдэхүүний нэр: Эслэгтэй арвайн гурил"
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": "",
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": "",
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": "",
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": "",
+        "mn": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,706 @@
+{
+  "Arkhangai": {
+    "center": {
+      "mn": "Цэцэрлэг",
+      "en": "Tsetserleg"
+    },
+    "summary": {
+      "mn": "Хангайн нурууны бэлчээрт сарлаг, хонь, ямаа, үхэр маллана. Сүү, цагаан идээ, махаараа алдартай.",
+      "en": "Herding of yak, sheep, goats and cattle on Khangai mountain pastures; known for dairy products and meat."
+    },
+    "foods": [
+      {
+        "mn": "Сарлагийн сүү, тос",
+        "en": "Yak milk and butter"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      },
+      {
+        "mn": "Ээзгий",
+        "en": "Eezgii (milk-curd cheese)"
+      },
+      {
+        "mn": "Сарлагийн мах",
+        "en": "Yak meat"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      }
+    ]
+  },
+  "Bayan-Ulgii": {
+    "center": {
+      "mn": "Өлгий",
+      "en": "Ulgii"
+    },
+    "summary": {
+      "mn": "Казах ястны хоолны соёл давамгайлсан бөгөөд мал аж ахуй, нүүдлийн хоол хүнс онцлог.",
+      "en": "Kazakh culinary traditions predominate, built on herding and hearty meat and dairy dishes."
+    },
+    "foods": [
+      {
+        "mn": "Бешбармак",
+        "en": "Beshbarmak"
+      },
+      {
+        "mn": "Курт",
+        "en": "Kurt (dried cheese)"
+      },
+      {
+        "mn": "Хазы",
+        "en": "Kazy (horse sausage)"
+      },
+      {
+        "mn": "Боорцог",
+        "en": "Fried dough (boortsog)"
+      },
+      {
+        "mn": "Адууны мах",
+        "en": "Horse meat"
+      }
+    ]
+  },
+  "Bayankhongor": {
+    "center": {
+      "mn": "Баянхонгор",
+      "en": "Bayankhongor"
+    },
+    "summary": {
+      "mn": "Говь, хангайн заагийн бэлчээрт ямаа, хонь, тэмээ маллана.",
+      "en": "Goats, sheep and camels are herded across the Gobi–Khangai transition zone."
+    },
+    "foods": [
+      {
+        "mn": "Ямааны мах",
+        "en": "Goat meat"
+      },
+      {
+        "mn": "Тэмээний мах",
+        "en": "Camel meat"
+      },
+      {
+        "mn": "Хоормог",
+        "en": "Khoormog (fermented camel milk)"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      },
+      {
+        "mn": "Зэрлэг жимс",
+        "en": "Wild berries"
+      }
+    ]
+  },
+  "Bulgan": {
+    "center": {
+      "mn": "Булган",
+      "en": "Bulgan"
+    },
+    "summary": {
+      "mn": "Мал аж ахуйтай зэрэгцээд тариалан, сүү цагаан идээний үйлдвэрлэл хөгжсөн.",
+      "en": "Combines livestock herding with crop farming and dairy production."
+    },
+    "foods": [
+      {
+        "mn": "Цагаан идээ",
+        "en": "Dairy products"
+      },
+      {
+        "mn": "Улаан буудай",
+        "en": "Wheat"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      },
+      {
+        "mn": "Үхрийн мах",
+        "en": "Beef"
+      },
+      {
+        "mn": "Цөцгийн тос",
+        "en": "Butter"
+      }
+    ]
+  },
+  "Darkhan-Uul": {
+    "center": {
+      "mn": "Дархан",
+      "en": "Darkhan"
+    },
+    "summary": {
+      "mn": "Хүнсний үйлдвэрлэл, боловсруулалтын төв; ойролцоох тариалангийн бүсийн бүтээгдэхүүнийг боловсруулдаг.",
+      "en": "A food-processing centre that turns the output of nearby crop-growing areas into flour, bread and other products."
+    },
+    "foods": [
+      {
+        "mn": "Гурил",
+        "en": "Flour"
+      },
+      {
+        "mn": "Талх, нарийн боов",
+        "en": "Bread and pastries"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      },
+      {
+        "mn": "Махны боловсруулсан бүтээгдэхүүн",
+        "en": "Processed meat products"
+      },
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      }
+    ]
+  },
+  "Dornod": {
+    "center": {
+      "mn": "Чойбалсан",
+      "en": "Choibalsan"
+    },
+    "summary": {
+      "mn": "Зүүн хээрийн өргөн бэлчээрт мал маллаж, буудай тарина; Буйр нуурт загас барьдаг.",
+      "en": "Livestock on the broad eastern steppe, wheat growing, and fishing in Buir Lake."
+    },
+    "foods": [
+      {
+        "mn": "Бэлчээрийн мах",
+        "en": "Pasture-fed meat"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Улаан буудай",
+        "en": "Wheat"
+      },
+      {
+        "mn": "Загас",
+        "en": "Fish"
+      },
+      {
+        "mn": "Айраг",
+        "en": "Airag (fermented mare's milk)"
+      }
+    ]
+  },
+  "Dornogovi": {
+    "center": {
+      "mn": "Сайншанд",
+      "en": "Sainshand"
+    },
+    "summary": {
+      "mn": "Говийн бэлчээрт тэмээ, ямаа, хонь маллана.",
+      "en": "Camels, goats and sheep are herded on Gobi pastures."
+    },
+    "foods": [
+      {
+        "mn": "Тэмээний мах",
+        "en": "Camel meat"
+      },
+      {
+        "mn": "Хоормог",
+        "en": "Khoormog (fermented camel milk)"
+      },
+      {
+        "mn": "Ямааны мах",
+        "en": "Goat meat"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      }
+    ]
+  },
+  "Dundgovi": {
+    "center": {
+      "mn": "Мандалговь",
+      "en": "Mandalgovi"
+    },
+    "summary": {
+      "mn": "Дундад хээр, говийн бэлчээрт хонь, ямаа, тэмээ, адуу маллана.",
+      "en": "Sheep, goats, camels and horses graze on semi-desert steppe."
+    },
+    "foods": [
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Ямааны мах",
+        "en": "Goat meat"
+      },
+      {
+        "mn": "Тэмээний мах",
+        "en": "Camel meat"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      },
+      {
+        "mn": "Айраг",
+        "en": "Airag (fermented mare's milk)"
+      }
+    ]
+  },
+  "Govi-Altai": {
+    "center": {
+      "mn": "Алтай",
+      "en": "Altai"
+    },
+    "summary": {
+      "mn": "Говь, Алтайн нурууны бэлчээрт ямаа, хонь, тэмээ, сарлаг маллана.",
+      "en": "Goats, sheep, camels and yaks are herded between the Gobi and the Altai mountains."
+    },
+    "foods": [
+      {
+        "mn": "Ямааны мах",
+        "en": "Goat meat"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Тэмээний мах",
+        "en": "Camel meat"
+      },
+      {
+        "mn": "Хоормог",
+        "en": "Khoormog (fermented camel milk)"
+      },
+      {
+        "mn": "Сарлагийн мах",
+        "en": "Yak meat"
+      }
+    ]
+  },
+  "Govi-Sumber": {
+    "center": {
+      "mn": "Чойр",
+      "en": "Choir"
+    },
+    "summary": {
+      "mn": "Хамгийн жижиг аймгуудын нэг; төмөр замын дагуух бэлчээрт мал аж ахуй эрхэлнэ.",
+      "en": "One of the smallest aimags; herding along the railway corridor."
+    },
+    "foods": [
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Ямааны мах",
+        "en": "Goat meat"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      },
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      },
+      {
+        "mn": "Цагаан идээ",
+        "en": "Dairy products"
+      }
+    ]
+  },
+  "Khentii": {
+    "center": {
+      "mn": "Өндөрхаан",
+      "en": "Undurkhaan"
+    },
+    "summary": {
+      "mn": "Хэрлэн, Онон мөрний сав газар адуу, хонь, үхэр маллаж, тариалан эрхэлнэ; зэрлэг жимс элбэг.",
+      "en": "Horses, sheep and cattle in the Kherlen and Onon river basins, with some crop farming and abundant wild berries."
+    },
+    "foods": [
+      {
+        "mn": "Адууны мах",
+        "en": "Horse meat"
+      },
+      {
+        "mn": "Айраг",
+        "en": "Airag (fermented mare's milk)"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Улаан буудай",
+        "en": "Wheat"
+      },
+      {
+        "mn": "Зэрлэг жимс",
+        "en": "Wild berries"
+      }
+    ]
+  },
+  "Khovd": {
+    "center": {
+      "mn": "Ховд",
+      "en": "Khovd"
+    },
+    "summary": {
+      "mn": "Ховдын голын хөндийд ногоо, тарвас, самар жимс ургуулж, уулсын бэлчээрт мал маллана.",
+      "en": "Vegetables, melons and fruit grow in the Khovd river valley, while livestock graze mountain pastures."
+    },
+    "foods": [
+      {
+        "mn": "Тарвас, амтат гуа",
+        "en": "Watermelon and melons"
+      },
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      },
+      {
+        "mn": "Улаан буудай",
+        "en": "Wheat"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Чацаргана",
+        "en": "Sea buckthorn"
+      }
+    ]
+  },
+  "Khuvsgul": {
+    "center": {
+      "mn": "Мөрөн",
+      "en": "Moron"
+    },
+    "summary": {
+      "mn": "Хөвсгөл нуур, тайгын бүс; сарлаг, цагаан идээ, хушны самар, зэрлэг жимс, нуурын загас онцлог.",
+      "en": "Lake Khuvsgul and taiga region; known for yak dairy, pine nuts, wild berries and lake fish."
+    },
+    "foods": [
+      {
+        "mn": "Сарлагийн сүү, тос",
+        "en": "Yak milk and butter"
+      },
+      {
+        "mn": "Хушны самар",
+        "en": "Pine nuts"
+      },
+      {
+        "mn": "Зэрлэг жимс",
+        "en": "Wild berries"
+      },
+      {
+        "mn": "Загас",
+        "en": "Fish"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      }
+    ]
+  },
+  "Orkhon": {
+    "center": {
+      "mn": "Эрдэнэт",
+      "en": "Erdenet"
+    },
+    "summary": {
+      "mn": "Аж үйлдвэрийн хот; хүнсний хэрэгцээгээ ойр орчмын аймгуудын мал аж ахуй, тариалангаас хангадаг.",
+      "en": "An industrial city supplied by herding and farming in surrounding aimags."
+    },
+    "foods": [
+      {
+        "mn": "Махны боловсруулсан бүтээгдэхүүн",
+        "en": "Processed meat products"
+      },
+      {
+        "mn": "Цагаан идээ",
+        "en": "Dairy products"
+      },
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      },
+      {
+        "mn": "Талх, нарийн боов",
+        "en": "Bread and pastries"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      }
+    ]
+  },
+  "Selenge": {
+    "center": {
+      "mn": "Сүхбаатар",
+      "en": "Sukhbaatar"
+    },
+    "summary": {
+      "mn": "Монголын гол тариалангийн бүс; улаан буудай, төмс, хүнсний ногоо.",
+      "en": "Mongolia's main crop-growing region: wheat, potatoes and vegetables."
+    },
+    "foods": [
+      {
+        "mn": "Улаан буудай",
+        "en": "Wheat"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      },
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      },
+      {
+        "mn": "Гурил",
+        "en": "Flour"
+      },
+      {
+        "mn": "Цагаан идээ",
+        "en": "Dairy products"
+      }
+    ]
+  },
+  "Sukhbaatar": {
+    "center": {
+      "mn": "Баруун-Урт",
+      "en": "Baruun-Urt"
+    },
+    "summary": {
+      "mn": "Зүүн хээрийн бэлчээрт хонь, адуу, үхэр маллана.",
+      "en": "Sheep, horses and cattle on the eastern steppe."
+    },
+    "foods": [
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Адууны мах",
+        "en": "Horse meat"
+      },
+      {
+        "mn": "Айраг",
+        "en": "Airag (fermented mare's milk)"
+      },
+      {
+        "mn": "Бэлчээрийн мах",
+        "en": "Pasture-fed meat"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      }
+    ]
+  },
+  "Tuv": {
+    "center": {
+      "mn": "Зуунмод",
+      "en": "Zuunmod"
+    },
+    "summary": {
+      "mn": "Нийслэлийг тойрсон бүс; төмс, ногоо, сүү, өндөг махаар нийслэлийг хангана.",
+      "en": "The belt around the capital; supplies Ulaanbaatar with potatoes, vegetables, milk, eggs and meat."
+    },
+    "foods": [
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      },
+      {
+        "mn": "Шувууны мах, өндөг",
+        "en": "Poultry and eggs"
+      },
+      {
+        "mn": "Цагаан идээ",
+        "en": "Dairy products"
+      },
+      {
+        "mn": "Үхрийн мах",
+        "en": "Beef"
+      }
+    ]
+  },
+  "Ulaanbaatar": {
+    "center": {
+      "mn": "Улаанбаатар",
+      "en": "Ulaanbaatar"
+    },
+    "summary": {
+      "mn": "Нийслэл; хүнс боловсруулах үйлдвэр, зах, дэлгүүрийн хамгийн том зах зээл.",
+      "en": "The capital and the largest market for food processing and retail."
+    },
+    "foods": [
+      {
+        "mn": "Махны боловсруулсан бүтээгдэхүүн",
+        "en": "Processed meat products"
+      },
+      {
+        "mn": "Талх, нарийн боов",
+        "en": "Bread and pastries"
+      },
+      {
+        "mn": "Цагаан идээ",
+        "en": "Dairy products"
+      },
+      {
+        "mn": "Бууз, хуушуур",
+        "en": "Buuz and khuushuur"
+      },
+      {
+        "mn": "Хүнсний ногоо",
+        "en": "Vegetables"
+      }
+    ]
+  },
+  "Umnugovi": {
+    "center": {
+      "mn": "Даланзадгад",
+      "en": "Dalanzadgad"
+    },
+    "summary": {
+      "mn": "Говийн бэлчээрт тэмээ, ямаа маллана; говийн зэрлэг жимс, ургамал түгээмэл.",
+      "en": "Camels and goats on Gobi pastures; Gobi wild berries and plants are common."
+    },
+    "foods": [
+      {
+        "mn": "Тэмээний мах",
+        "en": "Camel meat"
+      },
+      {
+        "mn": "Хоормог",
+        "en": "Khoormog (fermented camel milk)"
+      },
+      {
+        "mn": "Ямааны мах",
+        "en": "Goat meat"
+      },
+      {
+        "mn": "Хармаг",
+        "en": "Nitraria berries (kharmag)"
+      },
+      {
+        "mn": "Говийн эмийн ургамал",
+        "en": "Gobi medicinal plants"
+      }
+    ]
+  },
+  "Uvs": {
+    "center": {
+      "mn": "Улаангом",
+      "en": "Ulaangom"
+    },
+    "summary": {
+      "mn": "Увс нуурын хотгор; хонь, ямаа маллаж, арвай, буудай, төмс тарина.",
+      "en": "Uvs Lake basin; sheep and goat herding with barley, wheat and potato growing."
+    },
+    "foods": [
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Арвай",
+        "en": "Barley"
+      },
+      {
+        "mn": "Улаан буудай",
+        "en": "Wheat"
+      },
+      {
+        "mn": "Төмс",
+        "en": "Potato"
+      },
+      {
+        "mn": "Чацаргана",
+        "en": "Sea buckthorn"
+      }
+    ]
+  },
+  "Uvurkhangai": {
+    "center": {
+      "mn": "Арвайхээр",
+      "en": "Arvaikheer"
+    },
+    "summary": {
+      "mn": "Мал аж ахуйн өлгий нутаг; Орхон голын хөндийд хонь, адуу, тэмээ, үхэр маллана.",
+      "en": "A livestock heartland; sheep, horses, camels and cattle along the Orkhon river valley."
+    },
+    "foods": [
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Айраг",
+        "en": "Airag (fermented mare's milk)"
+      },
+      {
+        "mn": "Адууны мах",
+        "en": "Horse meat"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      },
+      {
+        "mn": "Хорхог, боодог",
+        "en": "Khorkhog and boodog"
+      }
+    ]
+  },
+  "Zavkhan": {
+    "center": {
+      "mn": "Улиастай",
+      "en": "Uliastai"
+    },
+    "summary": {
+      "mn": "Уулархаг бүс; сарлаг, хонь, ямаа маллаж, цагаан идээ, мах бэлтгэнэ.",
+      "en": "Mountainous region; yak, sheep and goat herding with dairy and meat products."
+    },
+    "foods": [
+      {
+        "mn": "Сарлагийн мах",
+        "en": "Yak meat"
+      },
+      {
+        "mn": "Сарлагийн сүү, тос",
+        "en": "Yak milk and butter"
+      },
+      {
+        "mn": "Хонины мах",
+        "en": "Mutton"
+      },
+      {
+        "mn": "Ааруул",
+        "en": "Aaruul (dried curds)"
+      },
+      {
+        "mn": "Зэрлэг жимс",
+        "en": "Wild berries"
+      }
+    ]
+  }
+}

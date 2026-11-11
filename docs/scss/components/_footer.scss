@@ -1,0 +1,44 @@
+.app-footer {
+  position: relative;
+  z-index: 10;
+  margin-top: 3rem;
+  background: var(--footer-bg);
+  border-top: 1px solid var(--border);
+  padding: 2rem 1.5rem;
+
+  .title {
+    margin-bottom: 1rem;
+    color: var(--text-soft);
+    font-size: clamp(1rem, 1.5vw, 1.25rem);
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  img {
+    height: 1rem;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+  }
+
+  li,
+  a,
+  p {
+    font-size: clamp(0.8rem, 1vw, 0.95rem);
+  }
+
+  a {
+    color: var(--link-color);
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $primaryColor;
+    }
+  }
+}

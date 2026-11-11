@@ -1,10 +1,11 @@
 {
-  "name": "dulguunspa",
+  "name": "creation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch src/scss/main.scss:src/css/main.css"
+    "sass": "sass --watch src/scss/main.scss:src/css/main.css",
+    "generate:images": "node src/tools/generate-images-json.mjs"
   },
   "keywords": [],
   "author": "",

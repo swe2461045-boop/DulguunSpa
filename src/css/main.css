@@ -1,4 +1,38 @@
 @charset "UTF-8";
+:root {
+  --border: #ececf2;
+  --sidebar-width: clamp(280px, 22vw, 340px);
+  --sidebar-bg: #ffffff;
+  --page-bg: #ffffff;
+  --text-main: #23262f;
+  --text-soft: #6b7280;
+  --pink: #ff6f91;
+  --green: #2bac73;
+  --orange: #ff914d;
+  --active-bg: #fff2e8;
+  --hover-bg: #f7f7fa;
+  --overlay: rgba(15, 23, 42, 0.55);
+  --footer-bg: #f8f9fa;
+  --navbar-bg: #f5f5f5;
+  --subtitle-color: #607089;
+  --link-color: #363636;
+}
+
+:root[data-theme=dark] {
+  --border: #2b303b;
+  --sidebar-bg: #161a22;
+  --page-bg: #14171c;
+  --text-main: #e5e7eb;
+  --text-soft: #9ca3af;
+  --active-bg: #2b2118;
+  --hover-bg: #1e232d;
+  --overlay: rgba(0, 0, 0, 0.7);
+  --footer-bg: #11141a;
+  --navbar-bg: #161a22;
+  --subtitle-color: #9fb0c8;
+  --link-color: #d1d5db;
+}
+
 /* Bulma Utilities */
 :root {
   --bulma-control-radius: var(--bulma-radius);
@@ -22600,30 +22634,419 @@ has-background-danger.is-hoverable:active {
   pointer-events: all !important;
 }
 
+:root {
+  --bulma-primary-h: 151deg;
+  --bulma-primary-s: 65%;
+  --bulma-primary-l: 42%;
+}
+
 .button.is-primary {
-  background-color: #f43f5e !important;
-  border-color: #f43f5e !important;
-  color: white !important;
+  background-color: #2bac73;
+  border-color: #2bac73;
+  color: white;
   transition: all 0.2s ease;
 }
 
 .button.is-primary:hover {
-  background-color: rgb(94.7077175698%, 7.6256157635%, 22.5402298851%) !important;
-  border-color: rgb(94.7077175698%, 7.6256157635%, 22.5402298851%) !important;
-  color: white !important;
+  background-color: rgb(14.3333333333%, 57.3333333333%, 38.3333333333%);
+  border-color: rgb(14.3333333333%, 57.3333333333%, 38.3333333333%);
+  color: white;
 }
 
 .button.is-secondary {
-  background-color: #0891b2 !important;
-  border-color: #0891b2 !important;
-  color: white !important;
+  background-color: #ff914d;
+  border-color: #ff914d;
+  color: white;
   transition: all 0.2s ease;
 }
 
 .button.is-secondary:hover {
-  background-color: rgb(2.6666666667%, 48.3333333333%, 59.3333333333%) !important;
-  border-color: rgb(2.6666666667%, 48.3333333333%, 59.3333333333%) !important;
-  color: white !important;
+  background-color: rgb(100%, 44.7940074906%, 10.6666666667%);
+  border-color: rgb(100%, 44.7940074906%, 10.6666666667%);
+  color: white;
+}
+
+.navbar-brand a p {
+  color: #2bac73;
+  font-size: 1rem;
+}
+.navbar-brand a span {
+  color: #ff914d;
+}
+
+.navbar-end a {
+  color: #ff914d;
+}
+
+.app-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* дээр харагдахаар */
+  background-color: var(--navbar-bg); /* эсвэл өөр өнгө */
+}
+
+.app-shadow {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-brand .image img {
+  max-width: 64px;
+  height: auto;
+}
+
+.navbar-item {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* зураг, текстийн хооронд зай */
+}
+
+.app-top-navbar-right {
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+
+.navbar-brand .app-logo:hover,
+.navbar-brand .app-logo:focus,
+.navbar-brand .app-logo:active {
+  background-color: transparent;
+  color: inherit;
+  box-shadow: none;
+}
+
+#themeToggle {
+  cursor: pointer;
+}
+
+[data-theme=dark] .theme-icon-moon,
+[data-theme=light] .theme-icon-sun {
+  display: none;
+}
+
+.theme-icon-sun {
+  color: #f5b301;
+}
+
+.theme-icon-moon {
+  color: #6b7cff;
+}
+
+.app-mobile-sidebar {
+  display: none;
+  border-bottom: 1px solid var(--border);
+  background: var(--sidebar-bg);
+  padding: 1rem 1.25rem;
+}
+
+.app-sidebar-icon-btn {
+  width: 32px;
+  height: 32px;
+  border: 0;
+  border-radius: 14px;
+  background: #f2f3f5;
+  font-size: 1rem;
+  color: #64748b;
+  cursor: pointer;
+}
+
+.app-sidebar-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--overlay);
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.25s ease;
+  z-index: 39;
+}
+
+.app-sidebar-overlay.is-active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.app-shell {
+  display: flex;
+  height: calc(100vh - 4rem);
+}
+
+.app-sidebar {
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  max-width: var(--sidebar-width);
+  border-right: 1px solid var(--border);
+  background: var(--sidebar-bg);
+  padding: 1.5rem 1rem 2rem;
+  height: calc(100vh - 4rem);
+  position: sticky;
+  top: 4rem;
+  overflow: auto;
+}
+
+.app-main-content {
+  flex: 1;
+  min-width: 0;
+  overflow-y: auto;
+}
+
+.app-sidebar-mobile-head {
+  display: none;
+}
+
+.app-menu-label {
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-transform: none;
+  letter-spacing: 0;
+  margin-bottom: 0.4rem;
+  margin-top: 1.25rem;
+}
+
+.app-toggle-sublist {
+  white-space: nowrap;
+}
+
+.app-sublist-item {
+  white-space: nowrap;
+  line-height: 1.6rem;
+  cursor: pointer;
+}
+.app-sublist-item:hover {
+  background: var(--hover-bg);
+}
+.app-sublist-item input[type=checkbox] {
+  display: none;
+}
+.app-sublist-item input[type=checkbox]:checked + span {
+  color: var(--green);
+}
+
+.app-title {
+  font-size: clamp(1.6rem, 3.2vw, 2.25rem);
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+  font-weight: 800;
+  max-width: 760px;
+  margin-bottom: 0.5rem;
+}
+
+.app-line {
+  width: 76px;
+  height: 3px;
+  border-radius: 999px;
+  background: var(--orange);
+  margin-bottom: 1.5rem;
+}
+
+.app-subtitle {
+  color: var(--subtitle-color);
+  font-size: clamp(1rem, 2vw, 1.35rem);
+  font-weight: bold;
+  line-height: 1.6;
+  max-width: 760px;
+  margin-bottom: 2.5rem;
+}
+
+.image-count-tag {
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  border-radius: 999px;
+}
+.image-count-tag:hover {
+  background-color: rgb(14.3333333333%, 57.3333333333%, 38.3333333333%);
+}
+
+#imageModal .modal-card {
+  width: 640px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+#imageModal .modal-card-head {
+  padding: 1.2rem 1.5rem;
+}
+#imageModal .modal-card-body {
+  padding: 1.5rem;
+}
+#imageModal #slideshowImage {
+  max-height: 52vh;
+  width: auto;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+.zoomable-image {
+  cursor: zoom-in;
+  transition: transform 0.2s ease;
+  transform-origin: center center;
+  user-select: none;
+}
+
+#fullscreenBtn {
+  border: none;
+}
+
+.map-wrap {
+  width: 100%;
+  overflow: hidden;
+}
+
+#svg-container svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  transform: translateX(-4%);
+}
+#svg-container svg path {
+  fill: #2bac73;
+  stroke: #fff;
+  stroke-width: 1;
+  cursor: pointer;
+  transition: fill 0.2s;
+}
+#svg-container svg path:hover {
+  fill: #ff914d;
+}
+
+.app-overview-text {
+  height: 100%;
+  max-height: 420px;
+  overflow-y: auto;
+}
+
+.app-txt {
+  font-size: clamp(0.8rem, 0.6vw + 0.55rem, 0.95rem);
+  line-height: 1.75;
+  color: var(--text-main);
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+.app-overview-text::-webkit-scrollbar {
+  width: 6px;
+}
+
+.app-overview-text::-webkit-scrollbar-thumb {
+  background: #9ca3af;
+  border-radius: 999px;
+}
+
+.province-info {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.province-summary {
+  line-height: 1.7;
+  margin: 0.5rem 0 1rem;
+}
+
+.province-subtitle {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--text-soft);
+}
+
+.province-foods {
+  gap: 0.35rem;
+}
+
+/* =========================
+   DESKTOP (>=769px)
+========================= */
+@media screen and (max-width: 769px) {
+  .app-shell {
+    display: block; /* Sidebar + main layout-ийг stack болгоно */
+    height: auto;
+  }
+  .app-sidebar {
+    /* Sidebar-г буцааж хэвийн layout-д оруулна */
+    position: static;
+    /* translate animation-г устгана */
+    transform: none;
+    height: auto;
+    /* Mobile shadow-г арилгана */
+    box-shadow: none;
+  }
+}
+/* =========================
+   TABLET (<=1024px)
+========================= */
+@media screen and (max-width: 1023px) {
+  .app-title {
+    line-height: 1.1;
+    margin-bottom: 0.9rem;
+  }
+  .app-subtitle {
+    margin-bottom: 2rem;
+  }
+  .app-tbl {
+    font-size: 0.9rem;
+  }
+}
+/* =========================
+   MOBILE (<=768px)
+========================= */
+@media screen and (max-width: 768px) {
+  .app-shell {
+    display: block; /* Sidebar + main layout-ийг stack болгоно */
+  }
+  .app-mobile-sidebar {
+    display: block; /* Mobile дээр гарч ирэх ↪ button */
+  }
+  .app-sidebar {
+    display: block;
+    position: fixed; /* Sidebar-г fixed болгож slide menu болгоно */
+    top: 0;
+    left: 0;
+    width: 320px;
+    max-width: 85vw;
+    min-width: unset;
+    height: 100vh;
+    z-index: 40;
+    background: var(--sidebar-bg);
+    border-right: 1px solid var(--border);
+    border-bottom: 0;
+    padding: 1rem 1rem 2rem;
+    overflow-y: auto;
+    /* Sidebar-г default үед нуух (зүүн тийш гаргана) */
+    transform: translateX(-100%);
+    transition: transform 0.28s ease;
+    box-shadow: 10px 0 30px rgba(0, 0, 0, 0.14);
+  }
+  .app-sidebar.is-open {
+    transform: translateX(0); /* Нээгдэх үед буцааж харуулна */
+  }
+  .app-sidebar-mobile-head {
+    /* Close button байрлах хэсэг */
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.75rem;
+  }
+  .app-title {
+    font-size: 1.65rem;
+    line-height: 1.15;
+  }
+  .app-subtitle {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1.75rem;
+  }
+  .app-tbl {
+    font-size: 0.7rem;
+  }
+}
+/* =========================
+   SMALL MOBILE (<=480px)
+========================= */
+@media screen and (max-width: 480px) {
+  .app-title {
+    font-size: 1.45rem;
+  }
+  .app-subtitle {
+    font-size: 0.95rem;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,362 @@
+[
+  {
+    "age": { "en": "0-6 months", "mn": "0-6 сар" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 720,
+      "Protein (g)": 10,
+      "Fat (g)": 32,
+      "Carbohydrate (g)": 97
+    },
+    "minerals": {
+      "Calcium (mg)": 300,
+      "Iron (mg)": 0,
+      "Phosphorus (mg)": 100
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 25
+    }
+  },
+  {
+    "age": { "en": "0-6 months", "mn": "0-6 сар" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 660,
+      "Protein (g)": 9,
+      "Fat (g)": 29,
+      "Carbohydrate (g)": 90
+    },
+    "minerals": {
+      "Calcium (mg)": 300,
+      "Iron (mg)": 0,
+      "Phosphorus (mg)": 100
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 25
+    }
+  },
+  {
+    "age": { "en": "7-12 months", "mn": "7-12 сар" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 820,
+      "Protein (g)": 12,
+      "Fat (g)": 32,
+      "Carbohydrate (g)": 120
+    },
+    "minerals": {
+      "Calcium (mg)": 400,
+      "Iron (mg)": 7.7,
+      "Phosphorus (mg)": 275
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 30
+    }
+  },
+  {
+    "age": { "en": "7-12 months", "mn": "7-12 сар" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 750,
+      "Protein (g)": 11,
+      "Fat (g)": 29,
+      "Carbohydrate (g)": 111
+    },
+    "minerals": {
+      "Calcium (mg)": 400,
+      "Iron (mg)": 7.7,
+      "Phosphorus (mg)": 275
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 30
+    }
+  },
+  {
+    "age": { "en": "1-3 years", "mn": "1-3 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 1060,
+      "Protein (g)": 15,
+      "Fat (g)": 41,
+      "Carbohydrate (g)": 158
+    },
+    "minerals": {
+      "Calcium (mg)": 500,
+      "Iron (mg)": 4.8,
+      "Phosphorus (mg)": 460
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 30
+    }
+  },
+  {
+    "age": { "en": "1-3 years", "mn": "1-3 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 980,
+      "Protein (g)": 14,
+      "Fat (g)": 38,
+      "Carbohydrate (g)": 144
+    },
+    "minerals": {
+      "Calcium (mg)": 500,
+      "Iron (mg)": 4.8,
+      "Phosphorus (mg)": 460
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 30
+    }
+  },
+  {
+    "age": { "en": "4-6 years", "mn": "4-6 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 1470,
+      "Protein (g)": 22,
+      "Fat (g)": 49,
+      "Carbohydrate (g)": 235
+    },
+    "minerals": {
+      "Calcium (mg)": 600,
+      "Iron (mg)": 5.3,
+      "Phosphorus (mg)": 500
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 30
+    }
+  },
+  {
+    "age": { "en": "4-6 years", "mn": "4-6 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 1330,
+      "Protein (g)": 20,
+      "Fat (g)": 44,
+      "Carbohydrate (g)": 212
+    },
+    "minerals": {
+      "Calcium (mg)": 600,
+      "Iron (mg)": 5.3,
+      "Phosphorus (mg)": 500
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 30
+    }
+  },
+  {
+    "age": { "en": "7-10 years", "mn": "7-10 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 1820,
+      "Protein (g)": 28,
+      "Fat (g)": 61,
+      "Carbohydrate (g)": 290
+    },
+    "minerals": {
+      "Calcium (mg)": 700,
+      "Iron (mg)": 7.4,
+      "Phosphorus (mg)": 500
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 35
+    }
+  },
+  {
+    "age": { "en": "7-10 years", "mn": "7-10 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 1650,
+      "Protein (g)": 29,
+      "Fat (g)": 55,
+      "Carbohydrate (g)": 260
+    },
+    "minerals": {
+      "Calcium (mg)": 700,
+      "Iron (mg)": 7.4,
+      "Phosphorus (mg)": 500
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 35
+    }
+  },
+  {
+    "age": { "en": "11-14 years", "mn": "11-14 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 2500,
+      "Protein (g)": 45,
+      "Fat (g)": 78,
+      "Carbohydrate (g)": 405
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 12.2,
+      "Phosphorus (mg)": 1250
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 40
+    }
+  },
+  {
+    "age": { "en": "11-14 years", "mn": "11-14 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 2170,
+      "Protein (g)": 46,
+      "Fat (g)": 67,
+      "Carbohydrate (g)": 344
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 11.7,
+      "Phosphorus (mg)": 1250
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 40
+    }
+  },
+  {
+    "age": { "en": "15-18 years", "mn": "15-18 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 2700,
+      "Protein (g)": 60,
+      "Fat (g)": 84,
+      "Carbohydrate (g)": 426
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 15.7,
+      "Phosphorus (mg)": 1250
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 40
+    }
+  },
+  {
+    "age": { "en": "15-18 years", "mn": "15-18 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 2280,
+      "Protein (g)": 52,
+      "Fat (g)": 71,
+      "Carbohydrate (g)": 358
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 25.8,
+      "Phosphorus (mg)": 1250
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 40
+    }
+  },
+  {
+    "age": { "en": "19-29 years", "mn": "19-29 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 2400,
+      "Protein (g)": 90,
+      "Fat (g)": 67,
+      "Carbohydrate (g)": 360
+    },
+    "minerals": {
+      "Calcium (mg)": 1000,
+      "Iron (mg)": 11.4,
+      "Phosphorus (mg)": 700
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 45
+    }
+  },
+  {
+    "age": { "en": "19-29 years", "mn": "19-29 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 1990,
+      "Protein (g)": 72,
+      "Fat (g)": 55,
+      "Carbohydrate (g)": 302
+    },
+    "minerals": {
+      "Calcium (mg)": 1000,
+      "Iron (mg)": 24.5,
+      "Phosphorus (mg)": 700
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 45
+    }
+  },
+  {
+    "age": { "en": "30-59 years", "mn": "30-59 жил" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 2380,
+      "Protein (g)": 76,
+      "Fat (g)": 66,
+      "Carbohydrate (g)": 370
+    },
+    "minerals": {
+      "Calcium (mg)": 1000,
+      "Iron (mg)": 11.4,
+      "Phosphorus (mg)": 700
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 45
+    }
+  },
+  {
+    "age": { "en": "30-59 years", "mn": "30-59 жил" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 1850,
+      "Protein (g)": 66,
+      "Fat (g)": 51,
+      "Carbohydrate (g)": 280
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 24.5,
+      "Phosphorus (mg)": 700
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 45
+    }
+  },
+  {
+    "age": { "en": "60 years and older", "mn": "60 жил болон түүнээс дээш" },
+    "gender": "male",
+    "proximates": {
+      "Energy (kcal)": 1920,
+      "Protein (g)": 62,
+      "Fat (g)": 53,
+      "Carbohydrate (g)": 297
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 11.4,
+      "Phosphorus (mg)": 700
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 45
+    }
+  },
+  {
+    "age": { "en": "60 years and older", "mn": "60 жил болон түүнээс дээш" },
+    "gender": "female",
+    "proximates": {
+      "Energy (kcal)": 1680,
+      "Protein (g)": 54,
+      "Fat (g)": 47,
+      "Carbohydrate (g)": 261
+    },
+    "minerals": {
+      "Calcium (mg)": 1300,
+      "Iron (mg)": 9.4,
+      "Phosphorus (mg)": 700
+    },
+    "vitamins": {
+      "Vitamin C (mg)": 45
+    }
+  }
+]
